@@ -1,0 +1,18 @@
+remote_theme: eracom/atlas
+title: Objectifs de formation IMD
+description: Les objectifs de la formation Interactive Media Designer
+lang: fr-FR
+version: 1.8
+#access_profs: profs
+#access_admin: admin23
+favicon: fichiers/ID2.png
+plugins:
+  - jekyll-titles-from-headings
+##  - jekyll-last-modified-at
+menu:
+  - Accueil
+  - Cursus Dual
+  - Cursus FPC
+  - Cursus Plein-temps
+  - Objectifs
+  - Processus
