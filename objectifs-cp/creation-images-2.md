@@ -5,9 +5,9 @@ type: 30-EP
 code: ID-CP-IMG2
 periodes: 60
 cursus:
-  - FPC: S2
-  - Duals: S2
-  - Plein-temps: S2
+#  - FPC: S2
+#  - Duals: S2
+#  - Plein-temps: S2
 competences:
   - 1.1.2: 20
   - 1.1.6: 40

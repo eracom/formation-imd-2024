@@ -4,9 +4,7 @@ layout: cours
 type: 30-EP
 code: ID-CP-SECU
 cursus:
-  - FPC: S2
-  - Duals: S2
-  - Plein-temps: S2
+
 competences:
   - 5.1.1: 4
   - 5.1.2: 4

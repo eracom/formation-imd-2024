@@ -15,10 +15,7 @@ competences:
   - 3.7.3 : 10
   - 4 : 10
 profs:
-  - Manuel Schmalstieg *
-  - Camille Vitré *
-  - Adrien Cater
-  - Charles Chalas
+
 notes: 
  # Comprend les heures du CIE1
 ---
