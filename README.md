@@ -1,9 +1,11 @@
-# Plan de formation IMD
+# Plan de formation IMD 2024
 
-Ce dossier vise à faciliter la collaboration autour des objectifs de formation IMD. Il s'agit des objectifs du nouveau plan de formation école, basés sur le plan-cadre (PEC) révisé en 2019, appliqué depuis la rentrée de 2020.
+Ce dossier vise à faciliter la collaboration autour des objectifs de formation IMD. Il s'agit des objectifs du nouveau plan de formation école, basés sur le plan-cadre (PEC) révisé en 2024, appliqué depuis la rentrée d'automne 2024.
 
 Une vue web existe à cette adresse: 
-[https://code.eracom-pedagogique.ch/formation-imd/](https://code.eracom-pedagogique.ch/formation-imd-2014/)
+[https://code.eracom-pedagogique.ch/formation-imd-2024/](https://code.eracom-pedagogique.ch/formation-imd-2024/)
+
+Voir aussi: [les objectifs de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/). En vigueur pour les classes ayant débuté la formation entre 2020 et 2023.
 
 Voir aussi: [les objectifs de formation 2014](https://code.eracom-pedagogique.ch/formation-imd-2014/). En vigueur pour les classes ayant débuté la formation entre 2014 et 2019.
 
