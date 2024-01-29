@@ -1,5 +1,5 @@
 ---
-title: Projet vidéo 3
+title: Projet vidéo 3 - Institutionnel
 layout: cours
 type: AP
 code: ID-AP-VID3

@@ -5,7 +5,7 @@ type: AP
 code: ID-AP-VID5
 periodes: 80
 cursus:
-  - Plein-temps: S8
+ # - Plein-temps: S8
 competences:
   - 3.1.1: 10
   - 3.1.2: 10

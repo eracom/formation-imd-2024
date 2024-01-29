@@ -1,5 +1,5 @@
 ---
-title: Projet vidéo 4
+title: Projet vidéo 4 (reportage)
 layout: cours
 type: AP
 code: ID-AP-VID4

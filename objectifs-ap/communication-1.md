@@ -1,10 +1,10 @@
 ---
-title: Projet communication 2
+title: Projet communication 1
 layout: cours
 type: AP
 code: ID-AP-COM
 cursus:
-  - Plein-temps: S5
+  - Plein-temps: S2
 periodes: 80
 competences:
   - 1.2.2 : 5
@@ -35,6 +35,15 @@ profs:
 ---
 
 ## Descriptif
+
+Bases du graphisme, recherche, production d'idées, design (un peu plus complexe que Projet Création Graphique). C'est "Projet Création Graphique 2".
+
+- collecter des idées
+- en lien avec sémiologie
+- hiérarchisation de contenus, pas seulement graphique...
+- traduire visuellement un contenu textuel (tenir compte du contenu)
+
+
 
 Un cours en mode "Projet". Réalisation de mandats de communication, de type TPI, touchant à tous les médias que les IMD savent réaliser. Il peut donc combiner la prise de photos, la captation de capsules vidéo, la production motion design ou 3D, le web. 
 

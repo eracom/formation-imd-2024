@@ -3,6 +3,7 @@ title: 3D (Dual)
 layout: cours
 type: 30-EP
 code: ID-CP-3D
+periodes: 40
 cursus:
   - Duals: S5
 competences:

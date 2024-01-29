@@ -3,7 +3,7 @@ title: Projet photographie
 layout: cours
 type: AP
 code: ID-AP-PHOT
-periodes: 160
+periodes: 80
 cursus:
   - FPC: S1
   - Plein-temps: S2
@@ -24,6 +24,8 @@ notes:
 ---
 
 # Descriptif
+
+Comporte les heures du CIE 2 (Photo)
 
 La photographie est un outil indispensable pour la création de contenu visuel destiné à s'intégrer dans différentes productions. Il est important que l'élève intègre les principes de fonctionnement de l'optique et de l'appareil photographique, de la capture à la restitution de l'image sur les écrans.
 

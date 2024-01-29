@@ -3,7 +3,7 @@ title: Communication marketing 1 - Création de concept
 layout: cours
 type: 30-EP
 code: ID-CP-MRKT1
-periodes: 60
+periodes: 40
 cursus:
   - FPC: S2
   - Duals: S3

@@ -22,6 +22,8 @@ profs:
 
 # Descriptif
 
+Important: l'axe est: comment raconter en images, mais pas dans le domaine "fiction". Lier au projet "vidéo institutionnelle", créer transversalité avec cours Communication-Marketing.
+
 Cours de 3 périodes.
 
 Orientation de ce cours:

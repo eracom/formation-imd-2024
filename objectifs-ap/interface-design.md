@@ -1,12 +1,12 @@
 ---
-title: Projet interface méthodes
+title: Projet design interfaces
 layout: cours
 type: AP
 code: ID-AP-INT1
 periodes: 80
 cursus:
-  - FPC: S1
-  - Plein-temps: S1
+  #- FPC: S1
+  - Plein-temps: S2
 competences:
   - 1.4.1 : 10
   - 1.4.2 : 10

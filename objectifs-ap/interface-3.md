@@ -31,6 +31,8 @@ competences:
 
 # Descriptif
 
+Le CIE Interface du S5 est intégré dans ce cours Projet Interface 3.
+
 Cours qui combine le design d'interfaces et le développement web.
 
 Supports possibles:

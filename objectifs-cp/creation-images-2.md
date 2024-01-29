@@ -1,13 +1,13 @@
 ---
-title: Création d'images 2 - Illustration et animation
+title: Animation
 layout: cours
 type: 30-EP
 code: ID-CP-IMG2
-periodes: 60
+periodes: 80
 cursus:
 #  - FPC: S2
-#  - Duals: S2
-#  - Plein-temps: S2
+  - Duals: S3
+  - Plein-temps: S3
 competences:
   - 1.1.2: 20
   - 1.1.6: 40
