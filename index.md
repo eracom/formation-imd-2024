@@ -7,6 +7,12 @@ title: Accueil
 
 ## Par classe
 
+Classes de 2024:
+
+- [ID341](/formation-imd/cursus-fpc/) (1<sup>re</sup> année FPC)
+- [ID441](/formation-imd-2024/cursus-plein-temps/) (1<sup>re</sup> Plein-temps)
+- [ID442](/formation-imd-2024/cursus-dual/) (1<sup>re</sup> année Dual)
+
 Classes de 2023:
 
 - [ID331](/formation-imd/cursus-fpc/) (1<sup>re</sup> année FPC)
