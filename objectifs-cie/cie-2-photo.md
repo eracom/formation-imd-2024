@@ -5,7 +5,7 @@ type: 20-CIE
 code: CIE
 periodes: 0
 cursus:
-  - Duals: S1
+  - Duals: S2
 competences:
 profs:
   - Jean-Marie Michel

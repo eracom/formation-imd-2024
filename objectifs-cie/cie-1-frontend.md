@@ -1,11 +1,11 @@
 ---
-title: CIE Frontend I
+title: CIE UI/UX
 layout: cours
 type: 20-CIE
 code: CIE
 periodes: 0
 cursus:
-  - Duals: S2
+  - Duals: S1
 competences:
 profs:
   - Pierre-André Vullioud

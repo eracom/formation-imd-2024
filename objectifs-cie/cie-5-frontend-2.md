@@ -1,11 +1,11 @@
 ---
-title: CIE Frontend II
+title: CIE Frontend
 layout: cours
 type: 20-CIE
 code: CIE
 periodes: 0
 cursus:
-  - Duals: S6
+  - Duals: S5
 competences:
 profs:
   - Mikhaél Minisini (Apptitude)
