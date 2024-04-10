@@ -9,4 +9,4 @@ ordre: type
 
 # Cursus en école Plein-temps - 4 ans
 
-La structure du cursus Plein-temps. 1440 périodes EP, 2400 périodes AP. Concerne les classes ID431, ID421, ID411, ID401.
+La structure du cursus Plein-temps. 1440 périodes EP, 2400 périodes AP. Concerne la classe ID441.
