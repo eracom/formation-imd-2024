@@ -5,7 +5,7 @@ lang: fr-FR
 version: 1.8
 access_profs: profs
 access_admin: admin23
-favicon: fichiers/ID2.png
+favicon: fichiers/ID24.png
 plugins:
   - jekyll-titles-from-headings
 ##  - jekyll-last-modified-at
