@@ -66,9 +66,9 @@ Cette page contient les **objectifs évaluateurs** des Interactive Media Designe
 
 Le indications **C1-C6** se réfèrent aux niveaux cognitifs de la [taxonomie de Bloom](https://fr.wikipedia.org/wiki/Taxonomie_de_Bloom), qui modélise les objectifs éducationnels en six domaines (le C signifie "Cognitive Domain"). La taxonomie est proposée comme une aide aux enseignants pour cibler un niveau d'apprentissage avec des activités appropriées.
 
-- **C1: Connaissance** (mémoriser, se rappeler)
-- **C2: Compréhension** (construire la signification d’informations reçues)
-- **C3: Application** (exécuter ou utiliser une procédure dans une situation donnée)
-- **C4: Analyse** (décomposer les parties constitutives d’un tout et déterminer les liens qui unissent ces parties)
-- **C5: Synthèse** (assembler des éléments pour former un tout nouveau et cohérent, ou faire une production originale)
-- **C6: Évaluation** (porter un jugement sur la base de critères et de normes)
+- **C1: Savoir / Connaître** (mémoriser, se rappeler)
+- **C2: Comprendre** (construire la signification d’informations reçues)
+- **C3: Appliquer** (exécuter ou utiliser une procédure dans une situation donnée)
+- **C4: Analyser** (décomposer les parties constitutives d’un tout et déterminer les liens qui unissent ces parties)
+- **C5: Synthétiser** (assembler des éléments pour former un tout nouveau et cohérent, ou faire une production originale)
+- **C6: Évaluer** (porter un jugement sur la base de critères et de normes)
