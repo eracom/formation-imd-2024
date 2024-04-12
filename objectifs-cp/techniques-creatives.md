@@ -9,8 +9,9 @@ cursus:
   - Duals: S1
   - Plein-temps: S1 
 competences:
-  - 1.4.1: 10
-  - 1.4.2: 10
+  - a3.1: 10
+  - a3.2: 10
+  - c2.6: 20
 profs:
   - Anaïs Bloch *
   - Manuel Schmalstieg *

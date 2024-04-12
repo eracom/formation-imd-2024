@@ -9,9 +9,9 @@ cursus:
   - Duals: S1
   - Plein-temps: S1
 competences:
-  - 1.1.1: 20
-  - 1.1.5: 15
-  - 1.1.12: 5
+  - b2.1: 35
+  - b2.2: 20
+  - c2.5: 5
 profs:
   - Sylvie Magnenat *
  #- Jérôme Eichmann

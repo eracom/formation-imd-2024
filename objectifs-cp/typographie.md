@@ -9,8 +9,10 @@ cursus:
   - Duals: S1
   - Plein-temps: S1
 competences:
-  - 1.1.7: 40
-  - 3.2.1: 30
+  - c3.3: 40
+  - c2.6: 10
+  - c2.7: 5
+  - b2.1: 5
 profs:
   - Tancrède Ottiger *
   - Emmanuelle Wassner *

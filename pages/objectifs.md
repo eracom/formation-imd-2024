@@ -2,75 +2,62 @@
 title: Objectifs
 layout: competences
 comp:
-  1.1.1: Utiliser les bases de la communication visuelle (C4)
-  1.1.2: Utiliser les bases de la perception visuelle (C5)
-  1.1.3: Appliquer les bases de l’espace, du corps et de la forme (C5)
-  1.1.4: Utiliser les bases de la sémiologie (C6)
-  1.1.5: Comprendre la théorie des couleurs (C3)
-  1.1.6: Faire des projets d’illustrations/dessins (C5)
-  1.1.7: Utiliser les bases de la typographie et de l’écriture (C6)
-  1.1.8: Etablir des infographies (C5)
-  1.1.9: Utiliser la photographie, l’optique et la lumière (C3)
-  1.1.10: Utiliser la vidéo/l’audio (C5)
-  1.1.11: Comprendre Corporate Identity, Corporate Design et la communication de marketing (C2)
-  1.1.12: Comprendre la propriété intellectuelle et le droit d’auteur (C3)
-  1.2.1: Comprendre la communication (C5)
-  1.2.2: Comprendre l’entretien avec le client et de conseil (C2)
-  1.2.3: Noter les résultats et établir le cahier de charges (C3)
-  1.3.1: Vérifier la faisabilité du projet, respectivement examiner et apprécier l’adéquation (entreprise C5)
-  1.3.2: Estimer approximativement les ressources nécessaires pour un préconcept (entreprise K3)
-  1.4.1: Collecter et développer des idées (C5)
-  1.4.2: Utiliser des techniques de visualisation  (C5)
-  1.4.3: Développer de premières approches créatives (C5)
-  1.4.4: Etablir une préconception (C5)
-  1.4.5: Décrire les éléments d’une offre (C2)
-  1.4.6: Décrire les objectifs et contraintes pour la planification du travail (C2)
-  1.5.1: Etablir la présentation (C3)
-  1.5.2: Faire la présentation (C3)
-  2.1.1: Mener des recherches (C5)
-  2.1.2: Analyser et évaluer les résultats de recherche (C6)
-  2.1.3: Définir les paramètres pour la suite du travail (C5)
-  2.2.1: Expliquer les contraintes par rapport aux contenus (C2)
-  2.2.2: Expliquer les critères pour les moyens de communication (C2)
-  2.2.3: Expliquer des directives et possibilités techniques des moyens de communication (C2)
-  2.2.4: Développer des idées (C5)
-  2.2.5: Etablir des concepts (C5)
-  2.2.6: Développer des variantes de maquettes (C5)
-  2.2.7: Elaborer des propositions (C5)
-  2.3.1: Etablir une présentation (C5)
-  2.3.2: Faire la présentation (C3)
-  3.1.1: Réaliser le projet et fixer les exigences techniques (C5)
-  3.1.2: Etablir un plan de projet (C5)
-  3.2.1: Spécifier et établir les contenus (C5) / Utiliser les outils (CI C3)
-  3.2.2: Clarifier la collaboration avec des partenaires du projet (interne/externe) (C5)
-  3.3.1: Spécifier et établir le design (C5)
-  3.3.2: Clarifier la collaboration avec des partenaires du projet (interne/externe) (C5)
-  3.4.1: Spécifier et établir les fonctions techniques (C5)
-  3.4.2: Clarifier la collaboration avec des partenaires du projet (interne/externe) (C5)
-  3.5.1: Spécifier et établir les interactions (C5)
-  3.5.2: Clarifier la collaboration avec des partenaires du projet (interne/externe) (C5)
-  3.6.1: Tester des moyens de communication numériques interactifs (C5)
-  3.6.2: Publier des moyens de communication numériques interactifs (C3)
-  3.7.1: Faire le débriefing avec le supérieur (C3)
-  3.7.2: Clore le projet sur le plan administratif (C3)
-  3.7.3: Etablir la documentation d’apprentissage (C3)
-  4: Utilisation de l'anglais technique
-  4.1.1: Ecouter (C4)
-  4.1.2: Transmettre des informations orales (C5)
-  4.1.3: Communiquer par oral (C5)
-  4.1.4: Mener des entretiens (C5)
-  4.1.5: Informer et argumenter (C5)
-  4.2.1: Lire (C5)
-  4.3.1: Transmettre par écrit des informations orales (C5)
-  4.3.2: Communiquer par écrit (C5)
-  4.3.3: Rédiger des textes (C5)
-  5: Sécurité au travail, protection de la santé et protection de l'environnement
-  5.1.1: Décrire les prescriptions (C2)
-  5.1.2: Mettre en pratique les mesures pour la sécurité au travail (C3)
-  5.1.3: Premiers secours (C2)
-  5.2.1: Expliquer les normes légales (C2)
-  5.2.2: Mettre en pratique la protection de l’environnement (CI C3)
-  5.2.3: Gérer les substances (CI C3)
+  a1.1: Comprendre la communication (C5)
+  a1.2: Comprendre l'entretien avec le client et de conseil (C5)
+  a1.3: Noter les résultats et établir le cahier de charges (C5)
+  a2.1: Analyser les besoins du mandant, le groupe cible et le contexte (C5)
+  a2.2: Clarifier et évaluer la faisabilité́ et la pertinence du projet (C5)
+  a2.3: Estimer approximativement les ressources nécessaires pour un concept préliminaires (C3)
+  a3.1: Collecter et développer des idées (C5)
+  a3.2: Visualiser les idées
+  a3.3: Développer de premières approches créatives
+  a3.4: Établir une préconception
+  a3.5: Décrire les éléments d’une offre
+  a3.6: Décrire les objectifs et contraintes pour la planification du travail
+  a4.1: Établir la présentation 
+  a4.2: Faire la présentation 
+  b1.1: Mener des recherches 
+  b1.2: Évaluer les résultats de recherche
+  b1.3: Déterminer les bases de la communication et du concept de design 
+  b2.1: Reconnaître les principes de la communication visuelle 
+  b2.2: Expliquer les bases de la perception visuelle
+  b2.3: Appliquer les bases de la perception visuelle
+  b2.4: Expliquer les exigences par rapport aux contenus
+  b2.5: Expliquer les fonctions pour les moyens de communication
+  b2.6: Expliquer des directives et possibilités techniques des moyens de communication
+  b2.7: Développer des idées 
+  b2.8: Établir des concepts 
+  b2.9: Développer des variantes de maquettes 
+  b2.10: Élaborer des propositions 
+  b3.1: Préparer les Usertesting 
+  b3.2: Effectuer les Usertesting 
+  b3.3: Évaluer les Usertesting et optimiser le projet 
+  b4.1: Établir une présentation
+  b4.2: Faire la présentation 
+  c1.1: Réaliser le projet et fixer les exigences techniques
+  c1.5: Appliquer des mesures de protection et de sécurité pour le hardware et les logiciels
+  c1.6: Décrire des mesures d'écologie de bureau 
+  c2.1: Faire des projets d’illustrations/dessins 
+  c2.2: Établir des infographies 
+  c2.3: Réaliser des photographies 
+  c2.4: Utiliser la vidéo/l’audio 
+  c2.5: Comprendre la propriété intellectuelle et le droit d’auteur
+  c2.6: Spécifier et établir les contenus 
+  c2.7: Rédaction de textes 
+  c3.1: Utiliser les bases de la sémiologie 
+  c3.2: Utiliser la théorie des couleurs 
+  c3.3: Utiliser les bases de la typographie et de l’écriture
+  c3.4: Comprendre Corporate Identity, Corporate Design et la communication de marketing
+  c3.5: Spécifier et établir le design 
+  c4.1: Établir une présentation 
+  c4.2: Faire la présentation 
+  d1.1: Spécifier et établir les fonctions techniques et interactions
+  d1.2: Faire face aux nouvelles technologies
+  d2.1: Tester des moyens de communication numériques interactifs
+  d2.2: Publier des moyens de communication numériques interactifs
+  d2.3: Évaluer les moyens de communication numériques interactifs
+  d3.3: Expliquer la documentation d’apprentissage 
+
 ---
 
 Cette page contient les **objectifs évaluateurs** des Interactive Media Designer, détaillées dans le Plan de formation Interactive Media Designer CFC.

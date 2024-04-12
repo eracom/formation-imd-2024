@@ -9,10 +9,11 @@ cursus:
   - Duals: S1
   - Plein-temps: S1
 competences:
-  - 2.1.1: 10
-  - 2.1.2: 5
-  - 2.1.3: 5
-  - 3.7.3: 5
+  - b1.1: 10
+  - b1.2: 5
+  - b.1.3: 5
+  - b4.1: 10
+  - b4.2: 10
 profs:
   - Sylvie Magnenat *
 # - Fabien Baudin

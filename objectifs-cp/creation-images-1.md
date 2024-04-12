@@ -9,9 +9,9 @@ cursus:
   - Duals: S1
   - Plein-temps: S1
 competences:
-  - 1.1.2: 20
-  - 1.1.3: 35
-  - 3.2.1: 5
+  - b2.3: 10
+  - c2.1: 40
+  - c2.6: 10
 profs:
   - Gregorio Soumas *
   # - Sandra Bühler
