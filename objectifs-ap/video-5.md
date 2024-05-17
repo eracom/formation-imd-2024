@@ -1,5 +1,6 @@
 ---
-title: Audiovisuel révision
+title : Projet Vidéo 5
+title_content: Révision
 layout: cours
 type: AP
 code: ID-AP-VID5

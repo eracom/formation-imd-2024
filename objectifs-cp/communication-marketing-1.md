@@ -1,5 +1,5 @@
 ---
-title: Communication marketing 1 - Création de concept
+title: Communication marketing 1
 layout: cours
 type: 30-EP
 code: ID-CP-MRKT1

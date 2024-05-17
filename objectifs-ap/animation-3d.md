@@ -1,5 +1,5 @@
 ---
-title: Projet 3D 1 (bases)
+title: Projet 3D 1
 layout: cours
 type: AP
 code: ID-AP-3D1
