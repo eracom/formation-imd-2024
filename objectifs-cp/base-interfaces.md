@@ -9,9 +9,10 @@ cursus:
   - Duals: S2
   - Plein-temps: S2
 competences:
-  - 1.1.7: 40
-  - 2.2.2: 5
-  - 2.2.3: 5
+  - b2.4: 10
+  - b2.5: 5
+  - b2.6: 5
+  - c3.2: 20
 profs:
   - Joëlle Aeschlimann *
   # - Joël Boucheteil

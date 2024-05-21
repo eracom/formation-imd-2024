@@ -29,6 +29,18 @@ Exemples d'exercices:
 - Créer une icône pour une application. (cf Lupton, p. 134)
 - Créer un photomontage: placer sa photo dans une scène historique.
 
+Contenu des modules:
+
+- Expliquer les bases de la conception d'images et de la théorie des formes (proportions, perspectives, formes, compositions, etc.)
+- Créer des illustrations, images, représentations 2D/3D 
+- Utiliser des techniques d'illustration (manuelles et numériques)
+- Utiliser un logiciel de dessin
+- Utiliser un logiciel de traitement d'images 
+- Utiliser des éléments formels et picturaux (point, ligne, surface et espace)
+- Citer et utiliser différents types de perspectives (linéaire, à deux points de fuite, chromatique, aérienne et signifiante)
+- Citer les bases de la perception visuelle
+- Définir les exigences de forme et de contenu d'une illustration en vue d'un concept de création ou d'un design d'entreprise (utilisation fonctionnelle du type d'image et langage visuel)
+
 
 ### 1.1.2 - Utiliser les bases de la perception visuelle
 

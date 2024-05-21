@@ -9,11 +9,13 @@ cursus:
   - Plein-temps: S2
 # periodes: 40
 competences:
-  - 1.1.9 : 40
+  - c2.3 : 40
+  - c3.1 : 20
+  - b2.7 : 20
 profs:
-  - Jennifer Santschy *
+  - Cécile Monnier
+  - Jennifer Santschy
   - Cyril Porchet
-  # - Cécile Monnier
 ---
 
 ## Descriptif
@@ -22,7 +24,7 @@ Voir les objectifs de l'ancien plan de formation: [Photographie 1](https://code.
 
 ### Programme élèves en Plein-temps / FPC
 
-Pour les élèves en école (Plein-temps et FPC), ce cours est précédé en première année par le cours "[Projet photo (CI1)](../objectifs-ap/photo.html)". Ils ont déjà de bonnes .
+Pour les élèves en école (Plein-temps et FPC), ce cours est complété par le cours "[Projet photo (CI1)](../objectifs-ap/photo.html)".
 
 Ce cours devra leur permettre de perfectionner leur maîtrise de la captation et de la retouche d'images.
 

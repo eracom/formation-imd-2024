@@ -8,8 +8,12 @@ cursus:
   - Duals: S2
   - Plein-temps: S2
 competences:
-  - 1.1.1: 20
-  - 1.1.4: 20
+  - c3.1: 20
+  - b2.1: 20
+  - a1.1: 10
+  - a1.2: 10
+  - b4.1: 5
+  - b4.2: 5
 profs:
   - Isabelle Stucki *
   - Robert Ireland *

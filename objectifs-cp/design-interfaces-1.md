@@ -9,9 +9,11 @@ cursus:
   - Duals: S2
   - Plein-temps: S2
 competences:
-  - 1.1.7: 40
-  - 2.2.2: 5
-  - 2.2.3: 5
+  - c2.6: 5
+  - c2.7: 5
+  - c3.3: 40
+  - b4.1: 5
+  - b4.2: 5
 profs:
   - Joëlle Aeschlimann *
   # - Joël Boucheteil
@@ -41,6 +43,10 @@ Important: définir ce domaine professionnel, bien expliquer ce qu’est le “d
 - Layout and spacing (cf *Refactoring*) 
 - Texte, typographie (cf *Refactoring*, *Clarke 165*) 
 - Couleur (cf Rf, *Lupton 148*) 
+
+## Exemple de travaux pratiques
+
+- Conception d'interface par exemple d'un site web, d'une newsletter ou d'une *landing page*.
 
 Un exemple de structure de cours:
 
