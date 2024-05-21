@@ -13,7 +13,7 @@ competences:
   - c2.1: 40
   - c2.6: 10
 profs:
-  - Gregorio Soumas *
+  #- Gregorio Soumas *
   # - Sandra Bühler
   # - Stefano Boroni
 ---

@@ -16,7 +16,7 @@ profs:
   - Noémie Sandoz
   - Anaïs Bloch *
   - Joëlle Aeschlimann
-  - Camille Vitré
+  #- Camille Vitré
 ---
 
 ## Descriptif

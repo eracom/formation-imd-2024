@@ -12,7 +12,7 @@ competences:
   - 1.4.3 : 5 
   - 3.7.3: 5
 profs:
-  - Gregorio Soumas
+  #- Gregorio Soumas
 ---
 
 # Descriptif

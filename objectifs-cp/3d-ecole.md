@@ -11,7 +11,7 @@ competences:
   - 3.4.1: 20
   - 3.5.1: 20
 profs:
-  - Gregorio Soumas
+  #- Gregorio Soumas
 ---
 
 ## Descriptif

@@ -14,7 +14,7 @@ profs:
   - Adrien Cater *
   - Chau-Uyen Mai *
   - Manuel Schmalstieg
-  - Camille Vitré
+  #- Camille Vitré
 ---
 
 ## Objectifs:

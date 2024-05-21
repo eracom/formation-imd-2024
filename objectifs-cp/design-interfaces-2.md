@@ -15,7 +15,7 @@ profs:
   - Joëlle Aeschlimann *
   - Pierre Georges *
   - Joël Boucheteil *
-  - Camille Vitré
+  #- Camille Vitré
 ---
 
 ## Descriptif

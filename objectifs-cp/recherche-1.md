@@ -17,7 +17,7 @@ competences:
 profs:
   - Sylvie Magnenat *
 # - Fabien Baudin
-  # - Gregorio Soumas
+  # #- Gregorio Soumas
   - Anaïs Bloch
 ---
 

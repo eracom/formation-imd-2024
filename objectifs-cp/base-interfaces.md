@@ -18,7 +18,7 @@ profs:
   # - Tancrède Ottiger
   - Pierre Georges *
   - Charles Chalas *
-  - Camille Vitré
+  #- Camille Vitré
 ---
 
 ## Descriptif

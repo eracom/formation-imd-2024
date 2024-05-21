@@ -11,7 +11,7 @@ competences:
   - 3.3.1 : 40
   - 3.4.1 : 40
 profs:
-  - Gregorio Soumas
+  #- Gregorio Soumas
 notes:
 # Comprend les heures du CI3
 ---

@@ -10,7 +10,7 @@ periodes: 80
 profs:
   - Charles Chalas
   - Joëlle Aeschlimann
-  - Camille Vitré
+  #- Camille Vitré
   - Vincent Belet
  #- Frederik Mahler-Andersen
 competences:

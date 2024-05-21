@@ -18,7 +18,7 @@ profs:
   - Charles Chalas
  #- Adrien Cater
  #- Manuel Schmalstieg
- #- Camille Vitré
+ ##- Camille Vitré
 ---
 
 ## Descriptif

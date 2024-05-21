@@ -9,7 +9,7 @@ periodes: 60
 profs:
   - Adrien Cater *
   - Charles Chalas
-  - Camille Vitré
+  #- Camille Vitré
   - Manuel Schmalstieg
   - Vincent Belet
 competences:

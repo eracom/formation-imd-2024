@@ -20,7 +20,7 @@ profs:
   - Charles Chalas *
   - Vincent Belet *
   - Adrien Cater (pas ID421)
-  - Camille Vitré
+  #- Camille Vitré
   #- Manuel Schmalstieg
 
 ---

@@ -16,7 +16,7 @@ profs:
   - Michaela Varin *
   #- Julien Sulser
   - Adrien Cater *
-  - Gregorio Soumas *
+  #- Gregorio Soumas *
   - Philippe Cordey *
   #- Daniel Torrisi (?)
 ---

@@ -12,7 +12,7 @@ competences:
   - 2.2.6: 20
   - 2.2.7: 20
 profs:
-  - Camille Vitré *
+  #- Camille Vitré *
   - Joëlle Aeschlimann
   - Pierre Georges
 ---

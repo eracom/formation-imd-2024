@@ -13,7 +13,7 @@ competences:
 profs:
   - Manuel Schmalstieg *
   - Vincent Belet *
-  - Camille Vitré
+  #- Camille Vitré
   - Adrien Cater (pas ID421)
   - Charles Chalas 
 

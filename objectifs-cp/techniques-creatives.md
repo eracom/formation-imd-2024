@@ -16,7 +16,7 @@ profs:
   - Anaïs Bloch *
   - Manuel Schmalstieg *
   - Livia Gnos *
-  #- Gregorio Soumas
+  ##- Gregorio Soumas
   - Stefano Boroni
   - Fabien Baudin
 ---

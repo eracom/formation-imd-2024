@@ -10,7 +10,7 @@ profs:
   - Adrien Cater * # (pas ID421)
   - Charles Chalas
   - Vincent Belet
-  - Camille Vitré
+  #- Camille Vitré
   - Manuel Schmalstieg
 competences:
   - 1.2.2 : 10
