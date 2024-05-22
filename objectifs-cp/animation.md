@@ -2,7 +2,7 @@
 title: Animation
 layout: cours
 type: 30-EP
-code: ID-CP-IMG2
+code: ID-CP-ANIM
 periodes: 80
 cursus:
 #  - FPC: S2

@@ -1,13 +1,14 @@
 ---
-title: Création d'images 1 - Photoshop/Illustrator
+title: Création d'images - Photoshop/Illustrator
 layout: cours
 type: 30-EP
-code: ID-CP-IMG1
+code: ID-CP-IMG
 periodes: 60
 cursus:
   - FPC: S1
   - Duals: S1
   - Plein-temps: S1
+domaine: A
 competences:
   - b2.3: 10
   - c2.1: 40
