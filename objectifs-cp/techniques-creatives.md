@@ -13,7 +13,6 @@ competences:
   - a3.2: 10
   - c2.6: 20
 profs:
-  - Anaïs Bloch *
   - Manuel Schmalstieg *
   - Livia Gnos *
   ##- Gregorio Soumas

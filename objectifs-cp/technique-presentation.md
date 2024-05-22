@@ -12,7 +12,6 @@ competences:
   - 1.5.2: 20
 profs:
   - Sylvie Magnenat *
-  - Michaela Varin
 ---
 
 ## Descriptif

@@ -13,12 +13,7 @@ competences:
   - 3.1.1 : 10
   - 3.1.2 : 10
 profs:
-  - Michaela Varin *
-  #- Julien Sulser
-  - Adrien Cater *
-  #- Gregorio Soumas *
-  - Philippe Cordey *
-  #- Daniel Torrisi (?)
+
 ---
 
 # Descriptif

@@ -14,9 +14,6 @@ competences:
   - 2.2.6: 10
   - 2.2.7: 10
 profs:
-  #- Camille Vitré *
-  - Joëlle Aeschlimann *
-  - Anaïs Bloch
 
 ---
 

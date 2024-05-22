@@ -18,7 +18,6 @@ profs:
   - Sylvie Magnenat *
 # - Fabien Baudin
   # #- Gregorio Soumas
-  - Anaïs Bloch
 ---
 
 ## Descriptif

@@ -14,7 +14,6 @@ competences:
   - 2.1.3: 5
 profs:
   - Noémie Sandoz
-  - Anaïs Bloch *
   - Joëlle Aeschlimann
   #- Camille Vitré
 ---

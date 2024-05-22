@@ -18,7 +18,6 @@ competences:
   - 1.4.6: 5
 profs:
   - Jonathan Droz *
-  - Michaela Varin
   # - Domenica D'Agostino
 ---
 

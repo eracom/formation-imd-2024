@@ -29,7 +29,6 @@ competences:
   - 3.5.1 : 5
   - 3.7.3 : 5
 profs: 
-  - Michaela Varin*
   - Jonathan Droz
   - Joël Boucheteil
 ---

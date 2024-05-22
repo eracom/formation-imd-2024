@@ -20,7 +20,6 @@ competences:
 profs:
   - Fabien Baudin *
   - Jonathan Droz
-  - Michaela Varin *
 ---
 
 # Descriptif
