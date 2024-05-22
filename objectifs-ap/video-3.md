@@ -15,9 +15,7 @@ competences:
   # - 3.7.2: 10
   # - 4: 5
 profs:
-  - Philippe Cordey *
-  - Hervé Pfister
-  - Nicolas Mesple *
+
 notes: 
  # Comprend les heures du CIE4 "vidéo"
 ---

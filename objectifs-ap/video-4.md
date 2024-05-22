@@ -9,12 +9,7 @@ cursus:
   - FPC: S6
   - Plein-temps: S5
 profs:
-  - Hervé Pfister
-  - Lucien Monot 
-  - Daniel Torrisi *
-  - Nicolas Mesple
-  - Philippe Cordey
-  #- David Maye
+
 competences:
   - 2.2.4: 5
   - 2.2.5: 5

@@ -14,10 +14,11 @@ competences:
   - c2.7: 5
   - b2.1: 5
 profs:
-  - Tancrède Ottiger *
+  - Jérôme Eichmann *
   - Emmanuelle Wassner *
+  - Tancrède Ottiger *
   #- Joël Boucheteil
-  #- Sylvie Magnenat
+  
 descriptif: "Ce cours a pour but d’établir les bases d’une sensibilité globale à l’agencement des lettres sur tous les supports imprimés et digitaux, autant dans un contexte de publication, d’affiche, de signalétique que de navigation web. Grâce à l’acquisition de connaissances à la fois théoriques et pratiques, les étudiants seront capables de mener à bien leurs projets avec un regard précis sur les questions de hiérarchisation de l’information, de contraste de formes et d’impact graphique."
 ---
 

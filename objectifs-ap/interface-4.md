@@ -8,11 +8,7 @@ cursus:
   - Plein-temps: S8
 periodes: 80
 profs:
-  - Charles Chalas
-  - Joëlle Aeschlimann
-  #- Camille Vitré
-  - Vincent Belet
- #- Frederik Mahler-Andersen
+
 competences:
   - 3.1.1: 10
   - 3.1.2: 10

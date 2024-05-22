@@ -3,7 +3,7 @@ title: Projet 3D 1
 layout: cours
 type: AP
 code: ID-AP-3D1
-periodes: 60
+periodes: 80
 cursus:
   #- FPC: S3
   - Plein-temps: S3

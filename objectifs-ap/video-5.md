@@ -12,10 +12,7 @@ competences:
   - 3.1.2: 10
   - 3.7.3: 10
 profs:
-  - Nicolas Mesple
-  - Philippe Cordey
-  - Hervé Pfister
-  - Lucien Monot
+
 ---
 
 # Descriptif

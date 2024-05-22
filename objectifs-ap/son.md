@@ -3,7 +3,7 @@ title: Projet son
 layout: cours
 type: AP
 code: ID-AP-SON
-periodes: 60
+periodes: 80
 cursus:
   - FPC: S2
   - Plein-temps: S3
