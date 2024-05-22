@@ -11,11 +11,7 @@ competences:
   - 3.3.1: 20
   - 3.4.1: 20
 profs:
-  - Manuel Schmalstieg *
-  - Vincent Belet *
-  #- Camille Vitré
-  - Adrien Cater (pas ID421)
-  - Charles Chalas 
+
 
 ---
 

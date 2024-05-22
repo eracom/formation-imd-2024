@@ -11,8 +11,7 @@ competences:
   - 3.4.1: 20
   - 3.5.1: 40
 profs:
-  - Manuel Schmalstieg *
-  #- Camille Vitré
+
 ---
 
 ## Descriptif

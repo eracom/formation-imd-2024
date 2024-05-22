@@ -13,12 +13,7 @@ competences:
   - 3.4.1: 20
   - 3.5.1: 40
 profs:
-  - Vincent Belet *
-  - Frederik Mahler-Andersen
-  - Charles Chalas
- #- Adrien Cater
- #- Manuel Schmalstieg
- ##- Camille Vitré
+
 ---
 
 ## Descriptif
