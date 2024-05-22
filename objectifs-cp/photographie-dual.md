@@ -4,8 +4,8 @@ layout: cours
 type: 30-EP
 code: ID-CP-PHOT
 cursus:
-  - Duals: S3
-# periodes: 40
+  - Duals: S2
+periodes: 80
 competences:
   - 1.1.9 : 40
 profs:

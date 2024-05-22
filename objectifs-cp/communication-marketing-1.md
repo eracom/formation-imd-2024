@@ -9,13 +9,13 @@ cursus:
   - Duals: S3
   - Plein-temps: S3
 competences:
-  - 1.1.4: 20
-  - 1.2.1: 10
-  - 1.4.3: 20
-  - 2.2.4: 20
+  - c3.4: 10
+  - a1.1: 10
+  - a2.1: 10
+  - b2.8: 5
+  - d3.3: 5
 profs:
-  - Fabien Baudin
-  - Jonathan Droz
+
 ---
 
 ## Descriptif

@@ -5,9 +5,9 @@ type: 30-EP
 code: ID-CP-INT1
 periodes: 40
 cursus:
-  - FPC: S1
-  - Duals: S2
-  - Plein-temps: S2
+#  - FPC: S1
+#  - Duals: S2
+#  - Plein-temps: S2
 competences:
   - b2.4: 10
   - b2.5: 5
@@ -24,13 +24,6 @@ profs:
 
 ## Descriptif
 
-Durant le premier semestre, les élèves apprennent les bases du design visuel. 
-
-Dans ce premier cours "Design d'interfaces", le focus devra être mis sur la manière dont les principes fondamentaux du design s'appliquent *pour les écrans*. 
-
-Les exercices pratiques seront réalisés avec les logiciels métier du design pour les ecrans, principalement **Figma**.
-
-Important: définir ce domaine professionnel, bien expliquer ce qu’est le “design d’interfaces”. La différence entre les termes (UI, UX...). 
 
 ## Contenus possibles
 
@@ -51,11 +44,7 @@ Un exemple de structure de cours:
 
 Références pour ce cours, en bibliothèque Eracom-EPSIC:
 
-- Andy Clarke, *[Art Direction for The Web](https://stuffandnonsense.co.uk/artdirectionfortheweb/)*, Smashing Magazine, 2019. Disponible en bibliothèque Eracom-EPISC (004.03.03 CLA). [Lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Ekz_PvVBF7pNigeBjl0K6hMBioDChGBYYcUQS-IzxjXIZw?e=9S1onX).
-- Adam Wathan & Steve Schoger, _Refactoring UI_, . [Lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Ejrsg7j13KBFlM9jVYY42bEBJ49E-gXMxaRPZF205Wvzvg?e=3UodTP).
-- Ellen Lupton, *Typo et design pour écran*, Pyramyd, 2015. Disponible en bibliothèque Eracom-EPISC (655.26 LUP). [Lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EuZCdiK9s3NBgigQHezCWswBdABl-4gms1FB_bJ6xyLaxQ?e=GTT43A)
 
-Pour info: Les élèves des classes ID412, ID411, ID311 ont acheté le livre de Lupton (*Typo et design pour écran*). Depuis la rentrée 2022 ce n'est plus un achat imposé.
 
 **Autres références:**
 

@@ -3,15 +3,14 @@ title: Sécurité au travail, protection de la santé et protection de l’en
 layout: cours
 type: 30-EP
 code: ID-CP-SECU
+periodes: 20
 cursus:
-
+  - FPC: S2
+  - Duals: S2
+  - Plein-temps: S2
 competences:
-  - 5.1.1: 4
-  - 5.1.2: 4
-  - 5.1.3: 4
-  - 5.2.1: 4
-  - 5.2.2: 2
-  - 5.2.3: 2
+  - c1.5: 5
+  - c1.6: 5
 profs:
   - Philippe Cordey *
   - Nicolas Mesple *

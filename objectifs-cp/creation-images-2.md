@@ -9,13 +9,11 @@ cursus:
   - Duals: S3
   - Plein-temps: S3
 competences:
-  - 1.1.2: 20
-  - 1.1.6: 40
-  - 2.2.1: 10
+  - c2.1: 40
+  - c2.6: 20
+  - b2.3: 20
 profs:
-  - Sophie Borloz *
-  - Jonas Lacôte *
-  - Sébastien Théraulaz *
+
 
 ---
 

@@ -7,6 +7,7 @@ cursus:
   - FPC: S2
   - Duals: S2
   - Plein-temps: S2
+periodes: 40
 competences:
   - c3.1: 20
   - b2.1: 10
