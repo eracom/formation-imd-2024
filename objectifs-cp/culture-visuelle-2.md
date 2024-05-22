@@ -9,7 +9,7 @@ cursus:
   - Plein-temps: S2
 competences:
   - c3.1: 20
-  - b2.1: 20
+  - b2.1: 10
   - a1.1: 10
   - a1.2: 10
   - b4.1: 5
