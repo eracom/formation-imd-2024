@@ -1,5 +1,5 @@
 ---
-title: Projet interface méthodes
+title: Projet interface 1
 layout: cours
 type: AP
 code: ID-AP-INT1
