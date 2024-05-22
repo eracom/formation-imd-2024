@@ -6,7 +6,7 @@ type: AP
 code: ID-AP-VID5
 periodes: 80
 cursus:
- # - Plein-temps: S8
+  - Plein-temps: S8
 competences:
   - 3.1.1: 10
   - 3.1.2: 10
@@ -19,8 +19,6 @@ profs:
 ---
 
 # Descriptif
-
-Pour classe plein-temps (4 ans) uniquement. Ce cours sera donné pour la première fois aux ID401 en semestre de printemps 2024.
 
 Ce cours permet un rappel des workflows et techniques de l'audiovisuel, avant les examens de qualification. 
 
