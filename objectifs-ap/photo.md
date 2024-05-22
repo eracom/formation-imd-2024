@@ -3,7 +3,7 @@ title: Projet photographie
 layout: cours
 type: AP
 code: ID-AP-PHOT
-periodes: 80
+periodes: 160
 cursus:
   - FPC: S1
   - Plein-temps: S2

@@ -4,7 +4,7 @@ layout: cours
 type: AP
 code: ID-AP-COM
 cursus:
-  - Plein-temps: S2
+  #- Plein-temps: S2
 periodes: 80
 competences:
   - 1.2.2 : 5

@@ -1,6 +1,6 @@
 ---
 title: Projet vidéo 1 
-title_content: Portrait
+# title_content: Portrait
 layout: cours
 type: AP
 code: ID-AP-VID1

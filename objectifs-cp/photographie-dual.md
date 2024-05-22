@@ -7,7 +7,9 @@ cursus:
   - Duals: S2
 periodes: 80
 competences:
-  - 1.1.9 : 40
+  - c2.3 : 40
+  - c3.1 : 20
+  - b2.7 : 20
 profs:
   - Cyril Porchet *
   - Jennifer Santschy

@@ -1,12 +1,13 @@
 ---
-title: Projet vidéo 2 - Produit
+title: Projet vidéo 2
+# title_content: Produit
 layout: cours
 type: AP
 code: ID-AP-VID2
 periodes: 80
 cursus:
   #- FPC: S2
-  - Plein-temps: S3
+  - Plein-temps: S2
 competences:
   - 1.4.1: 5
   - 1.4.2: 5
@@ -14,7 +15,7 @@ competences:
   - 3.2.1: 10
   - 3.4.1: 10
   - 3.7.3: 5
-  - 4 : 5
+  - 4 : 5zh
 profs:
   - Nicolas Mesple *
   - Hervé Pfister
