@@ -6,7 +6,7 @@ code: ID-CP-DEV5
 periodes: 60
 cursus:
   #- FPC: S6
-  #- Duals: S8
+  - Duals: S8
   - Plein-temps: S8
 competences:
   - 3.3.1: 40
