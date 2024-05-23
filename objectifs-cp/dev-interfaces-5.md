@@ -3,7 +3,7 @@ title: Développement d'interfaces 5 - App Mobile
 layout: cours
 type: 30-EP
 code: ID-CP-DEV5
-periodes: 40
+periodes: 60
 cursus:
   #- FPC: S6
   #- Duals: S8
