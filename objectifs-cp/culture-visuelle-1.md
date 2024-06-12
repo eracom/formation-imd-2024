@@ -2,12 +2,12 @@
 title: Culture visuelle 1 - Fondamentaux du design
 layout: cours
 type: 30-EP
-
 code: ID-CP-VISU1
 cursus:
   - FPC: S1
   - Duals: S1
   - Plein-temps: S1
+periodes: 40
 competences:
   - b2.1: 35
   - b2.2: 20

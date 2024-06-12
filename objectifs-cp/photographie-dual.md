@@ -5,7 +5,7 @@ type: 30-EP
 code: ID-CP-PHOT
 cursus:
   - Duals: S2
-periodes: 80
+periodes: 60
 competences:
   - c2.3 : 40
   - c3.1 : 20
