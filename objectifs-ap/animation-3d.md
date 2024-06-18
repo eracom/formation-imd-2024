@@ -5,7 +5,7 @@ type: AP
 code: ID-AP-3D1
 periodes: 80
 cursus:
-  #- FPC: S3
+  - FPC: S3
   - Plein-temps: S3
 competences:
   - 3.3.1 : 40
