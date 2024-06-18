@@ -1,9 +1,9 @@
 ---
-title: Design d'interfaces 4 - Interfaces physiques
+title: Design d'interfaces 4 - Interfaces physiques (duals)
 layout: cours
 type: 30-EP
 code: ID-CP-INT4
-periodes: 60
+periodes: 40
 cursus:
   - FPC: S4
   - Duals: S5
