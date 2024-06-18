@@ -5,9 +5,7 @@ type: 30-EP
 code: ID-CP-INT4
 periodes: 40
 cursus:
-  - FPC: S4
   - Duals: S5
-  - Plein-temps: S5
 competences:
   - 2.2.4: 10
   - 2.2.5: 10
