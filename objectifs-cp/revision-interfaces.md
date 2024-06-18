@@ -2,7 +2,7 @@
 title: Révision Interfaces
 layout: cours
 type: 30-EP
-code: ID-CP-DEV5
+code: ID-CP-INT6
 periodes: 40
 cursus:
   # - FPC: S6
