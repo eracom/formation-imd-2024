@@ -1,11 +1,11 @@
 ---
-title: Développement d'interfaces 4 - CMS
+title: Développement d'interfaces 4 - CMS (duals)
 layout: cours
 type: 30-EP
 code: ID-CP-DEV4
-periodes: 60
+periodes: 40
 cursus:
-  - Plein-temps: S7
+  - Duals: S7
 competences:
   - 3.3.1: 40
   - 3.4.1: 20
