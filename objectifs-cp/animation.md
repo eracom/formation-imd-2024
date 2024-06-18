@@ -5,7 +5,7 @@ type: 30-EP
 code: ID-CP-ANIM
 periodes: 60
 cursus:
-#  - FPC: S2
+  - FPC: S2
   - Duals: S3
   - Plein-temps: S2
 competences:

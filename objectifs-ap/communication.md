@@ -1,5 +1,5 @@
 ---
-title: Projet communication 2
+title: Projet communication
 layout: cours
 type: AP
 code: ID-AP-COM

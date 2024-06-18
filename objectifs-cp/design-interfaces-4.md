@@ -6,7 +6,7 @@ code: ID-CP-INT4
 periodes: 60
 cursus:
   - FPC: S4
-  - Duals: S5
+# - Duals: S5
   - Plein-temps: S5
 competences:
   - 2.2.4: 10

@@ -6,7 +6,7 @@ type: AP
 code: ID-AP-VID2
 periodes: 80
 cursus:
-  #- FPC: S2
+  - FPC: S2
   - Plein-temps: S2
 competences:
   - 1.4.1: 5

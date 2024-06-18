@@ -5,6 +5,7 @@ type: 30-EP
 code: ID-CP-AUV1
 cursus:
   - Plein-temps: S2
+  - FPC: S2
 periodes: 60
 competences:
   - 3.2.1: 40
