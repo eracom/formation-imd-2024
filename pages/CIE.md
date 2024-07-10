@@ -10,7 +10,7 @@ Les cours interentreprise (CIE) constituent l'un des trois lieux de formation. S
 
 Le plan de formation du 10 juillet 2023 (appliqué dès les classes ID441, ID442 et ID351 ayant leur examen de qualification en 2028) définit cinq CIE (section C, page 56). La durée de chaque CIE est de 4 jours, ce qui correspond à 20 jours de cours sur toute la formation.
 
-Pour les classes en formation école, les CIE sont intégrés dans les cours d'Applications professionnelles.
+Pour les classes en formation école, les CIE sont intégrés dans les cours d'Applications professionnelles, comme indiqué dans le tableau ci-dessous.
 
 | N° | Thème CIE       | Semestre | Cours école                |
 | ---| -------         | -------  | -----------------          |
