@@ -17,18 +17,24 @@ competences:
 profs:
 
 notes: 
- # Comprend les heures du CIE1
 ---
 
 # Descriptif
 
-Projet interface outils : 
+Ce cours a deux objectifs: 
 
-1. Apprendre à utiliser l'ordinateur (bases informatiques)
+- premièrement, assurer les bases informatiques de tous les élèves; 
+- deuxièmement, leur faire connaître le paysage actuel des logiciels utilisés dans les professions de la création de contenu numérique (création d'images, web, audiovisuel, 3d, code...)
 
-2. Faire un tour d'horizon des logiciels / outils à disposition pour créer des contenus numériques: par exemple Figma, Suite Adobe, After Effects, Processing, Arduino, Max/Jitter, TouchDesigner, Spark AR, Glyphs, Inkscape (éditeur SVG), Blender, Unity, Unreal Engine, Webflow, Framer, cavalry.app, Spline... 
+## Bases informatiques
 
-Pas d'approfondissement, mais découvrir une palette de possibilités.
+Il est essentiel de "mettre à niveau" tous les élèves de 1ère année dans l'utilisation générale de l'informatique, et en particulier de leur ordinateur. Pour cela, on peut se référer au cours [Bases en informatique](https://cours-web.ch/informatique-base/). Cette mise à niveau devrait s'effectuer en début de semestre durant un petit nombre de leçons.
+
+## Paysage actuel des logiciels
+
+Faire un tour d'horizon des logiciels / outils à disposition pour créer des contenus numériques: par exemple Figma, Suite Adobe, After Effects, Processing, Arduino, Max/Jitter, TouchDesigner, Spark AR, Glyphs, Inkscape (éditeur SVG), Blender, Unity, Unreal Engine, Webflow, Framer, cavalry.app, Spline... 
+
+Le but est que les élèves réalisent qu'il existe une grande quantité d'outils alternatifs, au-delà des "standards industriels" qui sont au centre de la formation IMD. Pour les logiciels choisis, faire effectuer aux élèves un exercice d'initiation, réalisable en quatre périodes. Pas d'approfondissement, mais faire découvrir une large palette de possibilités!
 
 ## Evaluations possibles
 
@@ -38,4 +44,9 @@ Pas d'approfondissement, mais découvrir une palette de possibilités.
 
 ## Ressources
 
-[https://cours-web.ch/informatique-base/](https://cours-web.ch/informatique-base/)
+Les bases de l'informatique:
+
+- [https://cours-web.ch/informatique-base/](https://cours-web.ch/informatique-base/)
+- [Un questionnaire](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUOFJaT1RQVlRYUkpOUDhOTjk2QzNINFVCMC4u&sharetoken=5T7uygCzd7XpOwbgvLdo) sur "Système et Troubleshooting
+- [Un questionnaire](https://forms.office.com/Pages/ShareFormPage.aspx?id=CLlqkPkEgEq6nIdaNud7wWhMFfhVGJdGpfZSv8KAoIlUM1U2Q0UzU1hUS1dZV05XUkIwRzlCVVZTUS4u&sharetoken=Bn2lMK3IyVCeRbioqDRh) sur "Stockage, partage et backup"
+- Validation de compétences via le site [PIX.FR](https://pix.org/fr) (plateforme en ligne pour évaluer, développer et certifier ses compétences numériques).
