@@ -1,5 +1,5 @@
 ---
-title: Photographie
+title: Photographie (dual)
 layout: cours
 type: 30-EP
 code: ID-CP-PHOT

@@ -1,5 +1,5 @@
 ---
-title: Audio-Vidéo 1 - Fondamentaux de l'audiovisuel
+title: Audio-Vidéo 1 - Fondamentaux de l'audiovisuel (dual)
 layout: cours
 type: 30-EP
 code: ID-CP-AUV1

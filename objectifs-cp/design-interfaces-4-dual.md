@@ -1,5 +1,5 @@
 ---
-title: Design d'interfaces 4 - Interfaces physiques (duals)
+title: Design d'interfaces 4 - Interfaces physiques (dual)
 layout: cours
 type: 30-EP
 code: ID-CP-INT4

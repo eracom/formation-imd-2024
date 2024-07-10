@@ -1,5 +1,5 @@
 ---
-title: Audio-Vidéo 3
+title: Audio-Vidéo 3 (dual)
 layout: cours
 type: 30-EP
 code: ID-CP-AUV3

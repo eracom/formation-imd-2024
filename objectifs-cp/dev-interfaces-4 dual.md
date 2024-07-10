@@ -1,5 +1,5 @@
 ---
-title: Développement d'interfaces 4 - CMS (duals)
+title: Développement d'interfaces 4 - CMS (dual)
 layout: cours
 type: 30-EP
 code: ID-CP-DEV4
