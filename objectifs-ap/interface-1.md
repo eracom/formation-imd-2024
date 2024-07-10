@@ -22,8 +22,6 @@ notes:
 
 Comporte les heures du CIE 1 (UI/UX)
 
-Pour ID331 : 7 au lieu de 8 périodes hebdomadaires.
-
 # Descriptif
 
 Ce cours représente un premier contact avec le design d'interfaces numériques. 
@@ -77,42 +75,29 @@ Voici des exemples de travaux pouvant être réalisés dans ce cours:
 - [interface "ascenseur de 1000 étages"](https://designbriefs.ch/the-1000-floor-elevator/)
 - projet Fax (interface interactive)
 - [Worst of the Web](https://designbriefs.ch/worst-of-the-web/)
-- design d'un système d'exploitation
 - [20-minute music app](https://designbriefs.ch/20-minute-music-app/)
 
 Les élèves sont au début de leur apprentissage, il faut donc que les instructions soient très précises et spécifiques.
 
 ### Projet "maquette de site web"
 
-L'un des objets concrets de ce cours: produire une **maquette de site web**. C'est le contenu du cours interentreprise "Frontend 1" (donné aux classes duales sur 4 jours). L'établissement d'un site web (maquette visuelle complète, réalisée avec un outil comme Figma) devra donc impérativement figurer parmi les travaux réalisés dans ce cours.
-
-### Projet typographique
-
-Un projet peut se focaliser sur la manière dont les principes typographiques (enseignés dans le cours *Communication visuelle*) s'appliquent dans un projet pour écran (choix de fontes adaptées au web, utilisation de fontes similaires pour comparer les nuances). Exemples d'application: Design pour un "post" sur un réseau social. Design pour un article de blog.
-
-### Introduction à Processing
-
-Un projet peut introduire les élèves aux concepts de la programmation avec **[Processing](https://processing.org/)** (la version Java, simple à installer). L'objectif de ce projet sera de leur donner une première approche pédagogique de la programmation. (cf livre *Code as Creative Medium*)
-
-### Projet "culture du design"
-
-Développer une base de données de références (designers, mouvements, œuvres majeures du design interactif p.ex. "30 sites web à connaître"). Choisir une plateforme (Arena, Notion...) et constituer un catalogue ordonné et commenté.
+L'un des travaux "obligés" de ce cours: produire une **maquette de site web**. C'est le contenu du cours interentreprise "Frontend 1" (donné aux classes duales sur 4 jours). L'établissement d'un site web (maquette visuelle complète, réalisée avec un outil comme Figma) devra donc impérativement figurer parmi les travaux réalisés dans ce cours.
 
 ## Format du cours
 
-Ce cours se déroule sur une journée complète. Son mode de fonctionnement devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
+Dans les cours "Projet Interface", le mode de fonctionnement devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
 
 - des moments d'analyse de brief
 - des moments de travail individuel
 - des moments de travail en binôme
 - des présentations et critiques des travaux en cours.
-- des moments didactiques où l'enseignant-e présente des outils.
+- des moments didactiques où l'enseignant-e présente des savoirs-faire.
 
-On pourra alterner entre des projets longs, sur plusieurs semaines, et des "projets éclairs" sur une journée ou demi-journée.
+Les élèves doivent apprendre ces différents modes de travail qui sont nouveaux. L'enseignant-e doit les accompagner et clarifier le processus.
 
 ### Sorties et visites
 
-Vous pouvez au cours du semestre planifier quelques visites: expositions en lien avec les interfaces interactives (p.ex. [EPFL Pavilions](https://epfl-pavilions.ch/)), visite d’agences… Impliquez les élèves activement dans ces sorties, en leur faisant faire un travail en amont, en leur donnant des consignes d’observation et de récolte de traces (carnet de notes, fiche à remplir).
+Vous pouvez au cours du semestre planifier une visite: expositions en lien avec les interfaces interactives (p.ex. [EPFL Pavilions](https://epfl-pavilions.ch/)), visite d’agences… Impliquez les élèves activement dans ces sorties, en leur faisant faire un travail en amont, en leur donnant des consignes d’observation et de récolte de traces (carnet de notes, fiche à remplir).
 
 ## 📚 Références
 

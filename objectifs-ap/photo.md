@@ -69,11 +69,9 @@ Parallèlement, ce cours doit pouvoir initier l'élève à un regard critique à
 
 ## Format du cours
 
-Cours de 8 périodes hebdomadaires.
-
 Ce cours pour les classes plein-temps comprend les périodes du Cours Inter-entreprises CI2, "[Photo et images numériques](../objectifs-cie/cie-2-photo.html)" (donné aux classes duales).
 
-Ce cours se déroule sur une journée complète. Son mode de fonctionnement devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
+Le mode de fonctionnement de ce cours devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
 
 - des moments d’analyse de brief.
 - des moments de travail individuel.
@@ -82,6 +80,11 @@ Ce cours se déroule sur une journée complète. Son mode de fonctionnement devr
 - des moments didactiques où l’enseignant-e présente des outils.
 - des moments d'explication théorique.
 
+Les élèves doivent apprendre ces différents modes de travail qui sont nouveaux. L'enseignant-e doit les accompagner et clarifier le processus.
+
+### Sorties et visites
+
+Vous pouvez au cours du semestre planifier une visite: expositions en lien avec les interfaces interactives (p.ex. [EPFL Pavilions](https://epfl-pavilions.ch/)), visite d’agences… Impliquez les élèves activement dans ces sorties, en leur faisant faire un travail en amont, en leur donnant des consignes d’observation et de récolte de traces (carnet de notes, fiche à remplir).
 
 ## 📚 Ressources
 

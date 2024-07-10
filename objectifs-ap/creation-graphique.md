@@ -26,16 +26,6 @@ descriptif: "Les élèves vont se familiariser avec la gestion et la production 
 
 Les élèves utilisent l'image, la typographie, l'illustration, la composition graphique. Ils réalisent des projets graphiques, comme le ferait une agence de communication.
 
-## Format du cours
-
-Ce cours se déroule sur une journée complète. Son mode de fonctionnement devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
-
-- des moments d'analyse de brief
-- des moments de travail individuel
-- des moments de travail en binôme
-- des présentations et critiques des travaux en cours.
-- des moments didactiques où l'enseignant-e présente des outils.
-
 ## Apprentissage des logiciels
 
 Ce cours doit permettre aux élèves d'acquérir une bonne maîtrise de la Suite Adobe, en particulier des logiciels Illustrator, Photoshop et InDesign.
@@ -75,6 +65,18 @@ Il faudra également donner une place à la "phase de recherche":
 - Créer une [composition graphique avec ses initiales](https://designbriefs.ch/composition-with-initials/ ).
 - Créer [un calendrier](https://designbriefs.ch/calendar-grid/) avec des contraintes précises.
 - Créer une brochure, un poster, voir une livre de [spécimens typographiques](https://designbriefs.ch/specimen-books/).
+
+## Format du cours
+
+Dans les cours "Projet Interface", le mode de fonctionnement devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
+
+- des moments d'analyse de brief
+- des moments de travail individuel
+- des moments de travail en binôme
+- des présentations et critiques des travaux en cours.
+- des moments didactiques où l'enseignant-e présente des outils.
+
+Les élèves doivent apprendre ces différents modes de travail qui sont nouveaux. L'enseignant-e doit les accompagner et clarifier le processus.
 
 ## Ressources pour ce cours:
 
