@@ -5,7 +5,7 @@ type: 20-CIE
 code: CIE
 periodes: 0
 cursus:
-  - Duals: S5
+  - Duals: S6
 competences:
 profs:
   - Mikhaél Minisini (Apptitude)
