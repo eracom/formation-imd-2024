@@ -24,3 +24,7 @@ Cours de 4 jours suivi par les élèves Dual avec un formateur.
 ## Dates
 
 Le cours CIE Frontend II a lieu en début de semestre 6 (S6). En 2022: mars (classe ID492).
+
+## Structure globale des CIE
+
+- [Structure des CIE](../cie/).

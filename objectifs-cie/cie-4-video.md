@@ -38,3 +38,7 @@ Ce CIE est donc la deuxième séquence d'enseignement sur la vidéo (et la seule
 Pour situer ce cours dans le contexte de la formation:
 
 - [Structure des cours audiovisuels](../structure-audiovisuel/).
+
+## Structure globale des CIE
+
+- [Structure des CIE](../cie/).

@@ -30,3 +30,7 @@ Le CIE Frontend 1 a lieu en fin de deuxième semestre (S2). En 2022: mai (classe
 ## Lien avec cours en école
 
 Ce cours CIE constitue le premier contact avec le domaine du développement web. Le prochain cours en école consacré à cette matière - [Développement d'interfaces 1](../objectifs-ep/dev-interfaces-1.html) - a lieu au semestre suivant (S3).
+
+## Structure globale des CIE
+
+- [Structure des CIE](../cie/).

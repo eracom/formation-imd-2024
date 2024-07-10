@@ -36,3 +36,6 @@ Le cours CIE 3D/Animation a lieu en fin de semestre 4 (S4). En 2022: juin (class
 
 Pour les élèves Dual, ce CIE constitue le premier cours sur cette matière. Il est suivi au semestre suivant (S5) par [le cours 3D](../objectifs-ep/3d-dual.html) en école.
 
+## Structure globale des CIE
+
+- [Structure des CIE](../cie/).
