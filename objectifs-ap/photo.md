@@ -84,7 +84,7 @@ Les élèves doivent apprendre ces différents modes de travail qui sont nouveau
 
 ### Sorties et visites
 
-Vous pouvez au cours du semestre planifier une visite: expositions en lien avec les interfaces interactives (p.ex. [EPFL Pavilions](https://epfl-pavilions.ch/)), visite d’agences… Impliquez les élèves activement dans ces sorties, en leur faisant faire un travail en amont, en leur donnant des consignes d’observation et de récolte de traces (carnet de notes, fiche à remplir).
+Vous pouvez au cours du semestre planifier une visite: expositions en lien avec la photographie (p.ex. Musée de l'Elysée, Journées photographiques de Bienne), visite d’agences… Impliquez les élèves activement dans ces sorties, en leur faisant faire un travail en amont, en leur donnant des consignes d’observation et de récolte de traces (carnet de notes, fiche à remplir).
 
 ## 📚 Ressources
 
