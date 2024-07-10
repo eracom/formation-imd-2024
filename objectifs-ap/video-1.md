@@ -20,8 +20,6 @@ profs:
   # - David Maye
 ---
 
-Pour ID431 : 3 au lieu de 4 périodes hebdomadaires.
-
 # Descriptif
 
 L'objectif principal de ce cours est de bien maîtriser l'utilisation du matériel de tournage vidéo.
@@ -51,6 +49,10 @@ Ce cours sera organisé autour des matières suivantes:
 
 - Comprendre le workflow de base/encodage/compression
 - Exporter pour les différents canaux de diffusions (VOD, AOD)
+
+### Sécurité au travail, protection de la santé et protection de l’environnement
+
+Ce cours intègre les notions de [Sécurité au travail, protection de la santé et protection de l’environnement](../objectifs-cp/securite-travail.html). Les classes en école n'ont pas de cours dédié sur cette matière du plan de formation.
 
 ## Matériel à disposition
 

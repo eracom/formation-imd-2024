@@ -5,9 +5,9 @@ type: 30-EP
 code: ID-CP-SECU
 periodes: 20
 cursus:
-  - FPC: S2
+#  - FPC: S2
   - Duals: S2
-  - Plein-temps: S2
+#  - Plein-temps: S2
 competences:
   - c1.5: 5
   - c1.6: 5
@@ -34,3 +34,7 @@ Il est nécessaire de développer une prise de conscience sur l'importance de me
 - Lire un article sur le sujet.
 - Mise en place de son espace de travail.
 - Analyse de problématiques et discussion.
+
+## Classes en école
+
+Pour les classes en école, le contenu de ce cours est intégré dans les cours AP (Projet Vidéo).

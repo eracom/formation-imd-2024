@@ -3,7 +3,7 @@ title: Animation
 layout: cours
 type: 30-EP
 code: ID-CP-ANIM
-periodes: 60
+periodes: 80
 cursus:
   - FPC: S2
   - Duals: S3
