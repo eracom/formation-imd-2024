@@ -28,9 +28,17 @@ Cours de 4 jours suivi par les élèves Dual avec un formateur.
 - graphiques 2D/3D
 - illustrations
 
-## Dates
+## Thèmes / contenus
 
-Le cours CIE 3D/Animation a lieu en fin de semestre 4 (S4). En 2022: juin (classe ID402).
+Selon le système modulaire pour IMD (module A4_IMD_4005):
+
+- Créer des contenus statiques et animés (p.ex. explication, promotion, information)
+- Utiliser un logiciel 3D
+
+## Exemples de travaux pratiques
+
+- Animation/vidéo pour expliquer un processus.
+- Animation pour la promotion d'un produit/service
 
 ## Lien avec cours en école
 

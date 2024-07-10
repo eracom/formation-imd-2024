@@ -23,9 +23,20 @@ Cours de 4 jours suivi par les élèves Dual avec un formateur.
 - tournage
 - montage
 
+Selon le système modulaire pour IMD (module A4_IMD_3006):
+
+- Expliquer les bases de la création vidéo (par ex. caméra, réglages, lumière).
+- Décrire les processus de travail de la production vidéo.
+- Enregistrer des vidéos simples.
+- Utiliser les fonctions de base d'un logiciel de montage vidéo
+
+Exemples de travaux pratiques:
+
+- Présentation de produit, interview, présentation de l'entreprise, tutoriel
+
 ## Dates
 
-Le cours CIE Vidéo a lieu en fin de semestre 3 (S3). En 2021: octobre (classe ID402).
+Le cours CIE Vidéo a lieu durant le semestre 3 (S3).
 
 ## Lien avec cours en école
 
