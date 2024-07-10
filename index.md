@@ -32,7 +32,7 @@ Classes de 2021:
 
 ## Documents essentiels du plan de formation IMD
 
-Ce site présente les **objectifs de cours** de la formation Interactive Media Designer CFC à l'Eracom. Ces objectifs ont été révisés en 2020, afin de correspondre au nouveau Plan d'études cadre.
+Ce site présente les **objectifs de cours** de la formation Interactive Media Designer CFC à l'Eracom. Ces objectifs ont été révisés en 2024, afin de correspondre au nouveau Plan d'études cadre.
 
 Ces objectifs sont [encadrés par trois documents](https://github.com/eracom/documents-formation-imd) qui définissent le cadre de la formation professionnelle IMD (communs à toutes les écoles de Suisse délivrant ce CFC):
 
