@@ -9,4 +9,4 @@ ordre: type
 
 # Cursus en école Plein-temps - 4 ans
 
-La structure du cursus Plein-temps. 1440 périodes EP, 2400 périodes AP. Concerne la classe ID441.
+La structure du cursus Plein-temps (1440 périodes EP, 2400 périodes AP). Concerne la classe ID441. Les classes ID431, ID421 et ID411 suivent [le plan de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/cursus-plein-temps/).

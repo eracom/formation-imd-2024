@@ -9,4 +9,4 @@ ordre: type
 
 # Cursus FPC - 3 ans
 
-La structure du cursus FPC. 1440 périodes EP, 2220 périodes AP. Pas encore utilisé - les classes ID331, ID321 suivent [le plan de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/cursus-fpc/).
+La structure du cursus FPC (1440 périodes EP, 2220 périodes AP). Pas encore utilisé - les classes ID431, ID331 et ID321 suivent [le plan de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/cursus-fpc/).
