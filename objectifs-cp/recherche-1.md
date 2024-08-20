@@ -39,10 +39,10 @@ Ce cours est à concevoir comme une introduction présentant différentes métho
 
 Le plan de formation définit la structure suivante:
 
-- **Mener des recherches ciblées** en fonction du projet, avec les moyens et les méthodes appropriés. 10 périodes.
-- Analyser et évaluer les résultats de recherche. 5 périodes.
-- Définir les paramètres pour la suite du travail. Établir un concept de communication spécifique au projet. 5 périodes.
-- Expliquer la documentation d’apprentissage. 5 périodes
+- **Mener des recherches ciblées** en fonction du projet, avec les moyens et les méthodes appropriés.
+- Analyser et évaluer les résultats de recherche.
+- Définir les paramètres pour la suite du travail. Établir un concept de communication spécifique au projet.
+- Expliquer la documentation d’apprentissage.
 
 ### Les méthodes essentielles
 
@@ -54,7 +54,7 @@ Le plan de formation définit la structure suivante:
 
 ### Exemples d'exercices
 
-- Lire un mandat et définir des axes de recherche pertinents. Il peut s'agir p.ex. d'un ancien mandat TPI, venant d'un autre cours, etc.
+- Lire un mandat et définir des axes de recherche pertinents. Il peut s'agir p.ex. d'un [ancien mandat TPI](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Ressources/Examens%20-%20archives?csf=1&web=1&e=Hl22eX), venant d'un autre cours, etc.
 - Préparer **une visite d'exposition** ou une promenade urbaine autour d'une thématique. Produire un dossier de visite (pouvant être utilisé par d'autres classes).
 - Recherche **iconographique**: utiliser des banques d'images pour sélectionner des visuels sur une thématique. Identifier la source d'une image.
 - Créer des **questionnaires** et effectuer des **interviews**. Exemples de sujets: les habitudes alimentaires, l'utilisation des médias. Interviewer d'autres élèves dans l'école. Ou: les métiers du numérique, interviewer des professonnel·le·s.
