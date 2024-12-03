@@ -40,15 +40,15 @@ Les exercices doivent permettre à l’apprenti-e de proposer une multitude de v
 
 ## Objectifs du plan de formation IMD
 
-### 1.4 - Elaborer un plan d’idées et une ébauche de conception
+### Compétence opérationnelle a3 - Elaborer des croquis d’idées et une ébauche de conception
 
-Les Interactive Media Designers CFC établissent des esquisses d’idées et utilisent des recherches créatives, de contenu et techniques et leur imagination. Ils développent de premières approches créatives pour une préconception et planifient les travaux.
+Les interactive media designer CFC recueillent des idées et établissent des croquis d’idées pour des moyens de communication numériques interactifs. Ils se basent sur des recherches de création, de contenu et techniques ainsi que sur leur imagination pour élaborer de premières approches conceptuelles. 
 
-### 1.4.1 - Collecter et développer des idées
+### a3.1 - Collecter et développer des idées
 
 Les Interactive Media Designers CFC collectent et développent des idées dans un processus créatif ouvert. [C5]
 
-### 1.4.2 - Utiliser des techniques de visualisation
+### a3.2 - Utiliser des techniques de visualisation
 
 Les Interactive Media Designers CFC utilisent des techniques visuelles appropriées pour visualiser leurs idées. [C5]
 
