@@ -16,7 +16,7 @@ Les différences de principe:
 
 Chaque cours est lié à plusieurs compétences opérationnelles et à leurs objectifs évaluateurs, qui sont définis dans le Plan de formation. Certaines compétences ne sont enseignées que dans les cours CP (par exemple c2.2. *Établir des infographies*). D'autres ne sont traitées que du côté entreprise / cours AP (par exemple c1.3 *Clarifier la collaboration avec des partenaires du projet*, ou d3.1 *Procéder au débriefing avec le mandant*).
 
-La majorité des compétences sont cependant traitées dans les deux contextes, école et entreprise. Pour une même compétence, la méthode d'enseignement ne sera cependant pas la même pour un cours CP ou pour un cours AP.
+La majorité des compétences sont cependant traitées dans les deux contextes, école et entreprise. Pour une même compétence, même si la formulation est identique, la méthode d'enseignement ne sera cependant pas la même pour un cours CP ou pour un cours AP.
 
 Différences dans le mode d'enseignement:
 
