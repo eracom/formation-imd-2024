@@ -1,8 +1,8 @@
----
-title: Cours CP et AP
-layout: default
-permalink: /cours-cp-ap/
----
+# ---
+# title: Cours CP et AP
+# layout: default
+# permalink: /cours-cp-ap/
+# ---
 
 # Cours CP et AP
 
