@@ -28,15 +28,21 @@ Ce cours introduit les apprentis aux bases de la communication et de la sémiolo
 
 ## Objectifs du plan de formation IMD
 
-### 1.1.4 - Utiliser les bases de la sémiologie
+### c3.1 - Utiliser les bases de la sémiologie/sémiotique
 
-> Les Interactive Media Designers CFC décodent des messages en ce qui concerne le contenu, la forme et l’utilisation à l’aide de la terminologie spécialisée.
+Les interactive media designer CFC décodent des messages en ce qui concerne le contenu, la forme et l’utilisation à l’aide de la terminologie spécialisée.  
+Ils jugent les caractéristiques de travaux de la création visuelle selon les contenus et l’expression créative. 
 
-> Ils jugent les caractéristiques de travaux de la création visuelle selon l’affirmation des contenus et l’expression créative.
+### b2.1 - Reconnaître les principes de la communication visuelle
+
+Les interactive media designer CFC interprètent et comparent des messages et des points de vue en matière de création sur la base de la culture; de l’art; du design; des médias.  
+Ils décrivent les fonctions et les possibilités d’utilisation des différents produits médiatiques. Ils reconnaissent et analysent les informations transmises par les médias en fonction du contenu, du message, de la diffusion et de l’impact. 
+
+***
 
 ## Mode d'enseignement
 
-Le cours est dispensé sous forme d’exercices pratiques. Il ne faut en aucun cas faire un travail sous forme de projet qui se déroule sur l’ensemble du semestre. Le contenu doit pouvoir questionner les apprenti·es sur le sens du langage, le choix d’un visuel, et d’en démontrer sa justification dans un contexte donné, une idée forte.
+Le cours est dispensé sous forme de théorie accompagnée de petits exercices (ex. 30 minutes de théorie et 60 minutes d’exercice). Il ne faut en aucun cas faire un travail sous forme de projet qui se déroule sur l’ensemble du semestre. Le contenu doit pouvoir questionner les apprenti·es sur le sens du langage, le choix d’un visuel, et d’en démontrer sa justification dans un contexte donné, une idée forte.
 
 ## Exemples d'exercices
 
@@ -46,7 +52,7 @@ Le cours est dispensé sous forme d’exercices pratiques. Il ne faut en aucun c
 - Utiliser des codes visuels dans une intention d’illustration (sous forme de croquis).
 - Choisir une forme de langage dans le cadre d’un projet ou campagne de communication.
 
-## Bibliographie
+## 📚 Bibliographie
 
 - Le blog Sémiosine, [www.semiozine.com](http://www.semiozine.com/)
 - Pignier, Nicole (2009). Sémiotique du webdesign : quand la pratique appelle une sémiotique ouverte. _Communication & langages_, 159(1), 91-110. https://doi.org/10.4074/S0336150009001082
