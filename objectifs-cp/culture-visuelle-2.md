@@ -56,7 +56,6 @@ Le cours est dispensé sous forme de théorie accompagnée de petits exercices (
 ## 📚 Bibliographie
 
 - Le blog Sémiosine, [www.semiozine.com](http://www.semiozine.com/)
-- Pignier, Nicole (2009). Sémiotique du webdesign : quand la pratique appelle une sémiotique ouverte. _Communication & langages_, 159(1), 91-110. https://doi.org/10.4074/S0336150009001082
 - Barel, Sophie (2015). _[De l’intérêt de la sémiologie dans le design graphique](https://www.aetherium.fr/interet-semiologie-design-graphique/)_
 - Pater, Ruben (2016), _The Politics of Design_. Chapitre 4 (Symbols and Icons).
 
