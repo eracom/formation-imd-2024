@@ -9,8 +9,9 @@ cursus:
   - Plein-temps: S1
 periodes: 40
 competences:
-  - b2.1: 35
-  - b2.2: 20
+  - b2.1: 15
+  - b2.2: 10
+  - c3.2: 10
   - c2.5: 5
 profs:
   - Sylvie Magnenat *
@@ -31,13 +32,18 @@ Certains exercices pourront être réalisés sur papier (par découpage, dessin,
 
 ## Exigences du plan de formation IMD
 
-### 1.1.5 - Comprendre la théorie des couleurs
+### b2.1 Reconnaître les principes de la communication visuelle 
 
-Les Interactive Media Designers CFC expliquent les règles de la théorie des couleurs et perçoivent consciemment la couleur comme dimension créative.
+Les interactive media designer CFC interprètent et comparent des messages et des points de vue en matière de création sur la base de: la culture; de l’art; du design; des médias. Ils·elles tiennent compte de l'évolution de l'histoire contemporaine. Ils·elles expliquent les modèles et l'évolution historique de la communication visuelle aux vues des tâches en matière de création visuelle.  
+Ils·elles décrivent les fonctions et les possibilités d’utilisation des différents produits médiatiques. Ils·elles reconnaissent et analysent les informations transmises par les médias en fonction du contenu, du message, de la diffusion et de l’impact. (C4)
 
-Elles expliquent des modèles de couleurs et les lois du mélange des couleurs (additif/soustractif) et les contrastes de couleurs. Elles décrivent l’interaction entre les couleurs et leur tonalité.
+### b2.2 Expliquer les bases de la perception visuelle
 
-Elles utilisent la couleur comme instrument de navigation.
+Les interactive media designer CFC expliquent les conditions physiques de la perception visuelle; décrivent la vision spatiale; expliquent les caractéristiques et l’effet de la perception des couleurs et des formes et les appliquent dans la création visuelle; identifient et expliquent des phénomènes de perception; décrivent les aspects psychologiques de la forme et de la couleur et connaissent leur effet sur la perception visuelle. (C2)
+
+### c3.2 Utiliser la théorie des couleurs
+
+Les Interactive Media Designers CFC expliquent les règles de la théorie des couleurs et perçoivent consciemment la couleur comme dimension créative. Ils·elles expliquent des modèles de couleurs et les lois du mélange des couleurs (additif/soustractif) et les contrastes de couleurs. Ils·elles décrivent l’interaction entre les couleurs et leur tonalité. Ils·elles utilisent la couleur comme outil de création.
 
 ## Exemples de travaux
 
@@ -58,10 +64,11 @@ Ce cours comprend une première introduction au droit d'auteur (Comprendre la pr
 
 Le droit d'auteur sera à nouveau abordé dans le cours "[Communication Marketing 2](communication-marketing-2.html)": les élèves apprendront alors comment il s’applique p.ex. dans un contrat (cession de droits dans le cadre d'un mandat).
 
+***
+
 ## Ressources pour ce cours:
 
 - _[Culture graphique : une perspective](https://pyramyd-editions.com/products/culture-graphique-une-perspective)_, Stéphane Darricau, Pyramid, 2014.
-- _Manuel de création graphique_, Armin Hofmann, 1965.
 - _[A New Program for Graphic Design](http://www.inventorypress.com/product/a-new-program-for-graphic-design)_, David Reinfurt
 - [Curriculum AIGA](https://www.aiga.org/resources/academic-design-education/graphic-design-curriculum) - Unit 1 (Introduction to Graphic Design) & 2 (2D Design Basics)
 
@@ -69,3 +76,5 @@ Le droit d'auteur sera à nouveau abordé dans le cours "[Communication Marketin
 
 - _[Copy This Book. An Artist's Guide to Copyright](https://copy-this-book.eu/)_, Eric Schrijver (en bibliothèque Eracom-Epsic)
 - [Enregistrement de la conférence](https://outils.eracom-pedagogique.ch/conference-droit-auteur/) de M. Kamran Housang Pour, expert en brevets auprès de l’Institut Fédéral de la Propriété Intellectuelle, janvier 2020.
+
+Voir [extraits de certains livres](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElUmxOKFcv1Ggykmrdn64UoBBiGIey-C57zuIKYS4Qu8FA) (dossier Culture Visuelle)
