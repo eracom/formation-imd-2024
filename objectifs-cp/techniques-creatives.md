@@ -52,6 +52,12 @@ Les apprenti·es collectent et développent des idées dans un processus cré
 
 Les apprenti·es utilisent des techniques visuelles appropriées pour visualiser leurs idées. [C5]
 
+***
+
+## Mode d'enseignement
+
+Le cours est dispensé sous forme de théorie accompagnée de petits exercices (ex. 30 minutes de théorie et 60 minutes d’exercice).
+
 ## Exercices type
 
 - Organiser / superviser une séance de brainstorming, avec différentes méthodes.
@@ -61,9 +67,11 @@ Les apprenti·es utilisent des techniques visuelles appropriées pour visualise
 
 Un [exemple de structure de cours](https://code.eracom-pedagogique.ch/eptec-id422/) (cours donné en 2022 par Manuel Schmalstieg et Livia Gnos)
 
-## 📚 Ressources
+***
 
-Livres recommandés pour ce cours:
+## 📚 Bibliographie
+
+### Livres recommandés pour ce cours
 
 - Dorte Nielsen, Sarah Thurber. *Les secrets de la pensée créative*. Pyramyd.
 - Guillaume Lamarre. *La Voie du créatif*. Pyramyd.
@@ -71,9 +79,11 @@ Livres recommandés pour ce cours:
 - Jake Knapp (2019). *Sprint: Résoudre les problèmes et trouver de nouvelles idées en cinq jours*. Eyrolles.
 - Jason Fulford (2014), *The Photographer’s Playbook: 307 Assignments and Ideas*. Aperture.
 
-Choix de [livres créativité](https://code.eracom-pedagogique.ch/livres-imd/creativite.html) en bibliothèque. [Extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElUmxOKFcv1Ggykmrdn64UoBBiGIey-C57zuIKYS4Qu8FA) (dossier "Créativité")
+[Choix de livres créativité](https://code.eracom-pedagogique.ch/livres-imd/creativite.html) en bibliothèque.  
+[Extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElUmxOKFcv1Ggykmrdn64UoBBiGIey-C57zuIKYS4Qu8FA) (dossier "Créativité")
 
-Autres livres:
+### Autres livres
+
 - Gavin Ambrose, Neil Leonard (2013). *Recherche créative*. Les essentiels. Pyramyd.
 - Gavin Ambrose, Paul Harris (2010). _Design Thinking - La stratégie de conception_. Les essentiels. Pyramyd.
 - Noble, Ian; Bestley, Russell (2013). *Recherche visuelle : méthodologies de recherche en graphisme*. Pyramyd.
