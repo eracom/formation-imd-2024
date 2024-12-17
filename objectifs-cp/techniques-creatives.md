@@ -22,13 +22,13 @@ profs:
 
 ## Techniques créatives - Création et visualisation d'idées
 
-Les apprenti-es s’approprient les outils et les techniques créatives pour la recherche et le développement d’idées fortes. Ils travaillent en groupe ou individuellement en fonction de l’exercice.
+Les apprenti·es s’approprient les outils et les techniques créatives pour la recherche et le développement d’idées fortes. Ils·elles travaillent en groupe ou individuellement en fonction de l’exercice.
 
-Ils-elles doivent être capables de poser un panel d’idées sur un sujet donné, ne pas être bloqué-es sur une idée fixe.
+Ils·elles doivent être capables de poser un panel d’idées sur un sujet donné, ne pas être bloqué·es sur une idée fixe.
 
-Ce cours se concentre sur **la production d’idées** (techniques pour les faire surgir, les trier, les présenter, les visualiser), mais en aucun cas sur leur aboutissement sous forme de projet continu.
+Ce cours se concentre sur **la production d’idées** – les techniques pour les faire surgir, les trier, les présenter, les visualiser. Mais en aucun cas sur leur aboutissement sous forme de projet continu.
 
-Les exercices doivent permettre à l’apprenti-e de proposer une multitude de variations d’idées fortes dans des domaines de recherche variés, peu importe ses affinités.
+Les exercices doivent permettre à l’apprenti·e de proposer une multitude de variations d’idées fortes dans des domaines de recherche variés, peu importe ses affinités.
 
 ## Objectifs et compétences générales:
 
@@ -42,15 +42,15 @@ Les exercices doivent permettre à l’apprenti-e de proposer une multitude de v
 
 ### Compétence opérationnelle a3 - Elaborer des croquis d’idées et une ébauche de conception
 
-Les interactive media designer CFC recueillent des idées et établissent des croquis d’idées pour des moyens de communication numériques interactifs. Ils se basent sur des recherches de création, de contenu et techniques ainsi que sur leur imagination pour élaborer de premières approches conceptuelles. 
+Les apprenti·es recueillent des idées et établissent des croquis d’idées pour des moyens de communication numériques interactifs. Ils·elles se basent sur des recherches de création, de contenu et techniques ainsi que sur leur imagination pour élaborer de premières approches conceptuelles. 
 
 ### a3.1 - Collecter et développer des idées
 
-Les Interactive Media Designers CFC collectent et développent des idées dans un processus créatif ouvert. [C5]
+Les apprenti·es collectent et développent des idées dans un processus créatif ouvert. [C5]
 
 ### a3.2 - Utiliser des techniques de visualisation
 
-Les Interactive Media Designers CFC utilisent des techniques visuelles appropriées pour visualiser leurs idées. [C5]
+Les apprenti·es utilisent des techniques visuelles appropriées pour visualiser leurs idées. [C5]
 
 ## Exercices type
 
@@ -71,7 +71,7 @@ Livres recommandés pour ce cours:
 - Jake Knapp (2019). *Sprint: Résoudre les problèmes et trouver de nouvelles idées en cinq jours*. Eyrolles.
 - Jason Fulford (2014), *The Photographer’s Playbook: 307 Assignments and Ideas*. Aperture.
 
-Plus d'infos sur les [livres créativité](https://code.eracom-pedagogique.ch/livres-imd/creativite.html) en bibliothèque.
+Choix de [livres créativité](https://code.eracom-pedagogique.ch/livres-imd/creativite.html) en bibliothèque. [Extraits dans OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/ElUmxOKFcv1Ggykmrdn64UoBBiGIey-C57zuIKYS4Qu8FA) (dossier "Créativité")
 
 Autres livres:
 - Gavin Ambrose, Neil Leonard (2013). *Recherche créative*. Les essentiels. Pyramyd.
