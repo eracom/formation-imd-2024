@@ -8,8 +8,8 @@ cursus:
   - Duals: S4
   - Plein-temps: S4
 competences:
-  - 3.3.1: 20
-  - 3.4.1: 20
+  - c3.5: 20
+  - d1.1: 20
 profs:
 
 

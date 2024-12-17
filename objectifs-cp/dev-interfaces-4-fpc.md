@@ -7,8 +7,8 @@ periodes: 80
 cursus:
   - FPC: S4
 competences:
-  - 3.3.1: 40
-  - 3.4.1: 20
+  - c3.5: 40
+  - d1.1: 20
   - 3.5.1: 40
 profs:
 
