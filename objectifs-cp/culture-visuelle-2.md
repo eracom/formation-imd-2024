@@ -32,12 +32,12 @@ Ce cours introduit les apprentis aux bases de la communication et de la sémiolo
 ### c3.1 - Utiliser les bases de la sémiologie/sémiotique
 
 Les interactive media designer CFC décodent des messages en ce qui concerne le contenu, la forme et l’utilisation à l’aide de la terminologie spécialisée.  
-Ils jugent les caractéristiques de travaux de la création visuelle selon les contenus et l’expression créative. 
+Ils·elles jugent les caractéristiques de travaux de la création visuelle selon les contenus et l’expression créative. 
 
 ### b2.1 - Reconnaître les principes de la communication visuelle
 
 Les interactive media designer CFC interprètent et comparent des messages et des points de vue en matière de création sur la base de la culture; de l’art; du design; des médias.  
-Ils décrivent les fonctions et les possibilités d’utilisation des différents produits médiatiques. Ils reconnaissent et analysent les informations transmises par les médias en fonction du contenu, du message, de la diffusion et de l’impact. 
+Ils·elles décrivent les fonctions et les possibilités d’utilisation des différents produits médiatiques. Ils·elles reconnaissent et analysent les informations transmises par les médias en fonction du contenu, du message, de la diffusion et de l’impact. 
 
 ***
 
