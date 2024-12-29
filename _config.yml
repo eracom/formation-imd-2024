@@ -12,7 +12,7 @@ plugins:
 menu:
   - Accueil
   - Cursus Dual
-  - Cursus FPC
+#  - Cursus FPC
   - Cursus Plein-temps
   - Objectifs
   - Processus
