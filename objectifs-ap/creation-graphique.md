@@ -12,13 +12,13 @@ profs:
   - Joël Boucheteil *
   - Tancrède Ottiger
 competences:
-  - 1.4.1 : 10
-  - 1.4.2 : 10
-  - 1.4.3 : 10
+  - a3.1 : 10
+  - a3.2 : 10
+  - a3.3 : 10
   - 2.1.1 : 10
   - 2.1.2 : 10
   - 2.1.3 : 10
-  - 3.7.3 : 5
+  - d3.3 : 5
 descriptif: "Les élèves vont se familiariser avec la gestion et la production d’un projet graphique à partir de compétences acquises telles que : l’image, la typographie, l’illustration, la composition. Iels devront livrer une présentation comme pour un client et soumettre leurs recherches. Par un système d’auto-évaluation, les élèves apprendront à poser un regard critique sur leurs travaux."
 ---
 

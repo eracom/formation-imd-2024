@@ -9,12 +9,12 @@ cursus:
   - FPC: S2
   - Plein-temps: S2
 competences:
-  - 1.4.1: 5
-  - 1.4.2: 5
-  - 1.4.3: 5
+  - a3.1: 5
+  - a3.2: 5
+  - a3.3: 5
   - 3.2.1: 10
   - 3.4.1: 10
-  - 3.7.3: 5
+  - d3.3: 5
   - 4 : 5zh
 profs:
   - Nicolas Mesple *

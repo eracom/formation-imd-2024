@@ -7,10 +7,10 @@ periodes: 80
 cursus:
   - Plein-temps: S4
 competences:
-  - 1.4.1 : 5
-  - 1.4.2 : 5
-  - 1.4.3 : 5 
-  - 3.7.3: 5
+  - a3.1 : 5
+  - a3.2 : 5
+  - a3.3 : 5 
+  - d3.3: 5
 profs:
   #- Gregorio Soumas
 ---
