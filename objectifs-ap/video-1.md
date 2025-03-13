@@ -9,10 +9,11 @@ cursus:
   - FPC: S2
   - Plein-temps: S2
 competences:
-  - 1.4.1: 5
-  - 1.4.2: 5
-  - 1.4.3: 5
-  - 3.2.1: 10
+  - a3.1: 5
+  - a3.2: 5
+  - a3.3: 5
+  - c1.1: 10
+  - c1.5: 5
 profs:
   - Nicolas Mesple *
   - Daniel Torrisi *
