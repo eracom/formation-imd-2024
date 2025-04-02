@@ -72,3 +72,5 @@ Le indications **C1-C6** se réfèrent aux niveaux cognitifs de la [taxonomie de
 - **C4: Analyser** (décomposer les parties constitutives d’un tout et déterminer les liens qui unissent ces parties)
 - **C5: Synthétiser** (assembler des éléments pour former un tout nouveau et cohérent, ou faire une production originale)
 - **C6: Évaluer** (porter un jugement sur la base de critères et de normes)
+
+## Objectifs évaluateurs
