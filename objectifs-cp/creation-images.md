@@ -54,23 +54,22 @@ Les Interactive Media Designers CFC
 - décrivent les aspects psychologiques de la forme et de la couleur et connaissent leur effet sur la perception visuelle
 - développent et créent des messages en fonction du destinataire. [C5]
 
-### 1.1.3 - Appliquer les bases de l’espace, du corps et de la forme
+### c2.1 : Créer des illustrations/dessins
 
-Les Interactive Media Designers CFC expliquent différents types de perspective (centrée, à 2 points de fuite, colorée, atmosphérique, signifiante) et les bases de la théorie des formes.
+Les Interactive Media Designers expliquent différents types de perspectives (centrale, à deux points de fuite, atmosphérique, aérienne et perspective de symbolique) ainsi que les bases de la théorie des formes;
 
-Ils appliquent de manière pertinente et appropriée des procédés de représentation spatiale dans leur propre activité créative.
+Ils appliquent de manière pertinente et appropriée des procédés de représentation spatiale dans leurs propres créations.
 
-Ils utilisent pour cela la représentation graphique adéquate. [C5]
-
-### Bases du numérique (élèves Dual)
+### Bases du numérique (pour élèves Dual)
 
 Ce cours constituera pour les élèves Dual un premier contact avec l'environnement de travail numérique de l'Eracom. Il faut assurer que les élèves aient des notions claires sur les formats de fichier numériques (gigas, octets).
 
-Ils doivent mettre en place de bonnes pratiques qui seront indispensables pour la durée de la formation:
+Ils doivent mettre en place de bonnes pratiques qui seront indispensables pour la durée de la formation (Compétence c1.5):
 
 - Organisation de leurs dossiers de travail, dans l'ordinateur.
-- Utilisation des serveurs école: Zephyr, Teams, etc.
+- Utilisation des serveurs école: Teams, etc.
 - Mise en place d'un système personnel de sauvegarde "Cloud" (OneDrive, Dropbox, etc).
+- Compétence c1.5 : Les interactive media designer CFC assurent la sécurité et la disponibilité de leurs données (sauvegarde) et opèrent avec la sécurité nécessaire dans des serveurs et des cloudtools sur Internet. 
 
 Voir: [https://cours-web.ch/informatique-base/](https://cours-web.ch/informatique-base/)
 

@@ -11,7 +11,7 @@ cursus:
 competences:
   - b1.1: 10
   - b1.2: 5
-  - b.1.3: 5
+  - b1.3: 5
   - b4.1: 10
   - b4.2: 10
 profs:
