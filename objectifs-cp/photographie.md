@@ -20,7 +20,7 @@ profs:
 
 ## Descriptif
 
-Voir les objectifs de l'ancien plan de formation: [Photographie 1](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-ep/photographie.html)
+Voir les objectifs de l'ancien plan de formation: [Photographie 1](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-cp/photographie.html)
 
 ### Programme élèves en Plein-temps / FPC
 

@@ -40,7 +40,7 @@ Le cours CIE Vidéo a lieu durant le semestre 3 (S3).
 
 ## Lien avec cours en école
 
-Les élèves en formation duale ont un [premier cours audio-visuel](../objectifs-ep/video-1-dual.html) au semestre 2.
+Les élèves en formation duale ont un [premier cours audio-visuel](../objectifs-cp/video-1-dual.html) au semestre 2.
 
 Ce CIE est donc la deuxième séquence d'enseignement sur la vidéo (et la seule au semestre 3). 
 

@@ -28,11 +28,11 @@ Le niveau à atteindre dans cette formation initiale CFC: permettre à l'apprent
 
 La base du cursus **Développement d'interfaces** est constituée par les cinq cours EP (école professionnelle). Ils figurent au programme pour tous les élèves, autant Duals que plein-temps.
 
-1. [Développement d'interfaces 1](../objectifs-ep/dev-interfaces-1.html) - Langages web
-2. [Développement d'interfaces 2](../objectifs-ep/dev-interfaces-2.html) - CSS
-3. [Développement d'interfaces 3](../objectifs-ep/dev-interfaces-3.html) - Interactions
-4. [Développement d'interfaces 4](../objectifs-ep/dev-interfaces-4.html) - CMS
-5. [Développement d'interfaces 5](../objectifs-ep/dev-interfaces-app.html) - App Mobile
+1. [Développement d'interfaces 1](../objectifs-cp/dev-interfaces-1.html) - Langages web
+2. [Développement d'interfaces 2](../objectifs-cp/dev-interfaces-2.html) - CSS
+3. [Développement d'interfaces 3](../objectifs-cp/dev-interfaces-3.html) - Interactions
+4. [Développement d'interfaces 4](../objectifs-cp/dev-interfaces-4.html) - CMS
+5. [Développement d'interfaces 5](../objectifs-cp/dev-interfaces-app.html) - App Mobile
 
 Pour les élèves en école à plein-temps, des **cours AP** (applications professionnelles) viennent s'ajouter. Ils visent la réalisation de projets pratiques pour assimiler les notions et techniques.
 

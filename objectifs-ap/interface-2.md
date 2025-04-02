@@ -31,13 +31,13 @@ L'objet de ce cours AP de 4 périodes est la réalisation de projets de design e
 
 Les élèves ont déjà effectué le cours "Projet Interface 1" au 1er semestre. Ce deuxième cours est davantage orienté vers le _développement complet_ d'un site web. 
 
-Ce cours devrait consacrer environ 50% du temps au design (recherche, wireframe, maquettes) et 50% au développemen (code front-end). Les élèves appliquent les compétences acquises durant le cours EP _[Développement d'interfaces](../objectifs-ep/dev-interfaces-1.html)_ qui a démarré au semestre précédent (classe 4-ans) ou dans le même semestre (classe FPC).
+Ce cours devrait consacrer environ 50% du temps au design (recherche, wireframe, maquettes) et 50% au développemen (code front-end). Les élèves appliquent les compétences acquises durant le cours EP _[Développement d'interfaces](../objectifs-cp/dev-interfaces-1.html)_ qui a démarré au semestre précédent (classe 4-ans) ou dans le même semestre (classe FPC).
 
 ## Liens avec d'autres cours
 
 Lien important avec le cours *Développement d'interfaces*.
 
-Lien possible avec le cours *[Communication Marketing](../objectifs-ep/communication-marketing-2.html)*. Des concepts marketing peuvent orienter le contenu des sites web développés (call-to-action, user-flow...).
+Lien possible avec le cours *[Communication Marketing](../objectifs-cp/communication-marketing-2.html)*. Des concepts marketing peuvent orienter le contenu des sites web développés (call-to-action, user-flow...).
 
 Dans ce cadre, le projet devra également traiter les aspects suivants: **établir une offre**, rédiger un cahier des charges pour un site web (objectifs évaluateurs 1.2.2, 1.2.3, 1.3.1, 1.3.2).
 

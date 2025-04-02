@@ -42,7 +42,7 @@ Selon le système modulaire pour IMD (module A4_IMD_4005):
 
 ## Lien avec cours en école
 
-Pour les élèves Dual, ce CIE constitue le premier cours sur cette matière. Il est suivi au semestre suivant (S5) par [le cours 3D](../objectifs-ep/3d-dual.html) en école.
+Pour les élèves Dual, ce CIE constitue le premier cours sur cette matière. Il est suivi au semestre suivant (S5) par [le cours 3D](../objectifs-cp/3d-dual.html) en école.
 
 ## Structure globale des CIE
 

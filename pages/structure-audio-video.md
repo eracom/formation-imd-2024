@@ -24,9 +24,9 @@ Son savoir professionnel doit lui permettre de capter des images et des sons, de
 
 La base du cursus audio et vidéo est constituée par des cours EP (Ecole Professionnelle), qui figurent au programme de tous les élèves, autant Duals que plein temps:
 
-- S2: **Audio-Vidéo 1 [Dual](../objectifs-ep/video-1-dual.html) / [Plein-temps](../objectifs-ep/video-1.html)** - Introduction à la prise de vue et au montage.
-- S4: **Audio-Vidéo 2 [Dual](../objectifs-ep/video-2-dual.html) / [Plein-temps](../objectifs-ep/video-3.html)** - Audio et montage.
-- S7: **Audio-Vidéo 3 [Dual](../objectifs-ep/video-3-dual.html) / [Plein-temps](../objectifs-ep/video-3.html)** - Pré- et post-production.
+- S2: **Audio-Vidéo 1 [Dual](../objectifs-cp/video-1-dual.html) / [Plein-temps](../objectifs-cp/video-1.html)** - Introduction à la prise de vue et au montage.
+- S4: **Audio-Vidéo 2 [Dual](../objectifs-cp/video-2-dual.html) / [Plein-temps](../objectifs-cp/video-3.html)** - Audio et montage.
+- S7: **Audio-Vidéo 3 [Dual](../objectifs-cp/video-3-dual.html) / [Plein-temps](../objectifs-cp/video-3.html)** - Pré- et post-production.
 
 ### Cours Applications Professionnelles
 

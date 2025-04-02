@@ -14,13 +14,13 @@ Le **design d'interfaces** est une compétence centrale pour la conception de mo
 
 La base du cursus **Design d'interfaces** est constituée par les cinq cours EP (école professionnelle). Ils figurent au programme pour tous les élèves, autant Duals que plein-temps.
 
-1. [Design d'interfaces 1](../objectifs-ep/design-interfaces-1.html) - Fondamentaux design écran
-2. [Design d'interfaces 2](../objectifs-ep/design-interfaces-2.html) - Design écran
-3. [Design d'interfaces 3](../objectifs-ep/design-interfaces-3.html) - Maquettes
-4. [Design d'interfaces 4](../objectifs-ep/design-interfaces-4.html) - Interfaces physiques
-5. [Design d'interfaces 5](../objectifs-ep/design-interfaces-5.html) - Systèmes
+1. [Design d'interfaces 1](../objectifs-cp/design-interfaces-1.html) - Fondamentaux design écran
+2. [Design d'interfaces 2](../objectifs-cp/design-interfaces-2.html) - Design écran
+3. [Design d'interfaces 3](../objectifs-cp/design-interfaces-3.html) - Maquettes
+4. [Design d'interfaces 4](../objectifs-cp/design-interfaces-4.html) - Interfaces physiques
+5. [Design d'interfaces 5](../objectifs-cp/design-interfaces-5.html) - Systèmes
 
-Un cours [Recherche UX](../objectifs-ep/recherche-ux.html) est donné à toutes les classes au semestre 3.
+Un cours [Recherche UX](../objectifs-cp/recherche-ux.html) est donné à toutes les classes au semestre 3.
 
 Pour les élèves en école à plein-temps, des **cours AP** (applications professionnelles) viennent s'ajouter. Ils visent la réalisation de projets pratiques pour assimiler les notions et techniques.
 

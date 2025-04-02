@@ -49,7 +49,7 @@ Le CIE Photographie a lieu en fin de premier semestre. En 2021: novembre/décemb
 
 ## Lien avec cours en école
 
-Ce CIE constitue le premier contact avec la photographie pour les élèves Dual. Il est suivi par le [cours de Photographie](../objectifs-ep/photographie-dual.html) en école donné au semestre 3.
+Ce CIE constitue le premier contact avec la photographie pour les élèves Dual. Il est suivi par le [cours de Photographie](../objectifs-cp/photographie-dual.html) en école donné au semestre 3.
 
 ## Structure globale des CIE
 

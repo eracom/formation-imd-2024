@@ -22,7 +22,7 @@ Cours de 4 périodes hebdomadaires. Il s'agit du dernier cours consacré à la 3
 Les élèves ont suivi auparavant: 
 
 - Premier [Projet Animation 3D (CI3)](../objectifs-ap/animation-3d.html) en S3.
-- Deuxième [Cours 3D](../objectifs-ep/3d-fpc.html) en S4.
+- Deuxième [Cours 3D](../objectifs-cp/3d-fpc.html) en S4.
 
 Ce troisième et dernier projet 3D vise à développer une animation complexe, dans le cadre d'une interface interactive, ou d'une application de réalité augmentée.
 

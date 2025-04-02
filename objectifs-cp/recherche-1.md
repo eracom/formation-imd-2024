@@ -70,7 +70,7 @@ Le plan de formation définit la structure suivante:
 
 ### Documentation d'apprentissage
 
-Les apprentis sont tenus de mettre en place leur **documentation d'apprentissage** (compétence 3.7.3 du plan de formation). Ce cours devra consacrer quelques périodes à la mise en place de cette documentation (elle peut constituer l'une des évaluations notées). Les élèves doivent développer leur méthode pour collecter les traces des différents cours. Eléments principaux:
+Les apprentis sont tenus de mettre en place leur **documentation d'apprentissage** (compétence d3.3 du plan de formation). Ce cours devra consacrer quelques périodes à la mise en place de cette documentation. Elle peut constituer l'une des évaluations notées. Les élèves doivent développer leur méthode pour collecter les traces des différents cours. Eléments principaux:
 
 - Un carnet de notes qui accompagne en permanence l'élève.
 - Un ou plusieurs outil(s) numérique(s) pour conserver et classer les données importantes (Notion, Bear, Google Keep, Apple Notes...)
@@ -82,9 +82,9 @@ Les élèves doivent décider de la structure, de l'organisation, de la forme ma
 Ce cours donne aux élèves des outils de recherche qu'ils appliqueront régulièrement dans les autres cours:
 
 - Dans les cours AP (Application), les élèves travaillent sur des mandats, notamment dans les cours "[Projet création graphique](../objectifs-ap/creation-graphique.html)", [Projet photo](../objectifs-ap/photo.html), "[Projet design d'interface](../objectifs-ap/design-interface.html)". Ces cours donneront l'occasion d'exercer et de systématiser les méthodes de recherche.
-- Le cours **[Techniques créatives 1 - Création et visualisation d'idées](../objectifs-ep/techniques-creatives.html)** (au semestre 2) permet de développer la visualisation d’idées, les moodboards, le mindmapping.
-- Le cours "**[Communication marketing 1 - Création de concept](../objectifs-ep/communication-marketing-1.html)**" (au semestre 3) permet d'intégrer ces méthodes dans la phase de préparation d'un projet.
-- **[Recherche UX](../objectifs-ep/recherche-ux.html)**: ce deuxième cours dédié à la phase de recherche (au semestre 3) donnera plus de place à l'analyse des données récoltées (comment faire des choix pour la suite du travail). Ce cours se focalise sur la recherche dans le cadre d'un projet numérique (site web, application), et développe la conception de *personas* et les tests utilisateur.
+- Le cours **[Techniques créatives 1 - Création et visualisation d'idées](../objectifs-cp/techniques-creatives.html)** (au semestre 2) permet de développer la visualisation d’idées, les moodboards, le mindmapping.
+- Le cours "**[Communication marketing 1 - Création de concept](../objectifs-cp/communication-marketing-1.html)**" (au semestre 3) permet d'intégrer ces méthodes dans la phase de préparation d'un projet.
+- **[Recherche UX](../objectifs-cp/recherche-ux.html)**: ce deuxième cours dédié à la phase de recherche (au semestre 3) donnera plus de place à l'analyse des données récoltées (comment faire des choix pour la suite du travail). Ce cours se focalise sur la recherche dans le cadre d'un projet numérique (site web, application), et développe la conception de *personas* et les tests utilisateur.
 
 ## Ce qui *ne fait pas* partie de ce cours
 

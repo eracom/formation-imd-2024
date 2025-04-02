@@ -40,9 +40,9 @@ Les élèves devraient également connaître d'autres logiciels utilisés pour l
 
 Ce cours devra fonctionner en coordination avec les cours suivants:
 
-1. Le cours EP "[Communication visuelle](../objectifs-ep/communication-visuelle-typographie.html)" devrait être en lien direct. Ce cours en représente la mise en pratique, et vise à approfondir et systématiser les compétences du cours EP (typographie, travail avec InDesign).
-2. Le cours EP "[Création d'images](../objectifs-ep/creation-images-1.html)" (travail avec Illustrator).
-3. Le cours EP "[Recherche 1](../objectifs-ep/recherche-1.html)" enseigne des méthodes pour la phase de recherche. Les élèves devront appliquer ces méthodes dans le cadre de ce cours.
+1. Le cours EP "[Communication visuelle](../objectifs-cp/communication-visuelle-typographie.html)" devrait être en lien direct. Ce cours en représente la mise en pratique, et vise à approfondir et systématiser les compétences du cours EP (typographie, travail avec InDesign).
+2. Le cours EP "[Création d'images](../objectifs-cp/creation-images-1.html)" (travail avec Illustrator).
+3. Le cours EP "[Recherche 1](../objectifs-cp/recherche-1.html)" enseigne des méthodes pour la phase de recherche. Les élèves devront appliquer ces méthodes dans le cadre de ce cours.
 
 Une coordination entre ces cours est indispensable.
 

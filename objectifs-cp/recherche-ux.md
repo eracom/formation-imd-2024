@@ -42,8 +42,8 @@ Ce cours doit donner de la place à l'analyse des données récoltées (comment 
 
 Il est important de veiller à ne pas faire de redondance avec ces cours que les élèves ont eu auparavant:
 
-- Dans le cours **[Recherche 1](../objectifs-ep/recherche-1.html)**, les élèves ont acquis des méthodes pour mener un processus de recherche.
-- Le cours **[Techniques créatives 1 - Création et visualisation d'idées](../objectifs-ep/techniques-creatives.html)** leur a permis de développer la visualisation d’idées, les moodboards, le mindmapping.
+- Dans le cours **[Recherche 1](../objectifs-cp/recherche-1.html)**, les élèves ont acquis des méthodes pour mener un processus de recherche.
+- Le cours **[Techniques créatives 1 - Création et visualisation d'idées](../objectifs-cp/techniques-creatives.html)** leur a permis de développer la visualisation d’idées, les moodboards, le mindmapping.
 
 Des exercices de recherche UX peuvent se faire en lien avec les projets développés dans le cours **Design d'interfaces**.
 

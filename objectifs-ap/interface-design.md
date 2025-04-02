@@ -30,7 +30,7 @@ Ce cours représente un premier contact avec le design d'interfaces numériques.
 
 ## Placement dans le cursus
 
-- En cursus FPC, il se fait en parallèle avec le cours EP "[Design d'interfaces 1](../objectifs-ep/design-interfaces-1.html)".
+- En cursus FPC, il se fait en parallèle avec le cours EP "[Design d'interfaces 1](../objectifs-cp/design-interfaces-1.html)".
 - En cursus Plein-temps, le cours EP ne vient qu'au 2e semestre.
 
 Durant le cursus, ce cours connaît plusieurs "suites", qui conduiront à concevoir des interfaces de sites web *responsive* et d'applications.

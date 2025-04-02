@@ -66,7 +66,7 @@ Travail avec les Sony FS 700 munies d'objectif fixe de type Samyang 24 mm, compl
 
 ## Structure globale des cours
 
-Ce cours est donné en parallèle avec le cours [Montage (EP)](../objectifs-ep/video-1.html) et avec le cours [Projet Son](../objectifs-ap/son.html).
+Ce cours est donné en parallèle avec le cours [Montage (EP)](../objectifs-cp/video-1.html) et avec le cours [Projet Son](../objectifs-ap/son.html).
 
 Pour les classes FPC (3 ans), ce cours est donné au même semestre que le cours [Projet vidéo 2](../objectifs-ap/video-2.html).
 

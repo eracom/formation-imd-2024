@@ -35,7 +35,7 @@ Ce cours devra approfondir aussi ces aspects :
 - méthodologie, planification, gestion du projet
 - présenter le projet de manière convaincante
 
-Ce travail est soutenu par le cours EP "[Développement d'interfaces 5 (App Mobile)](../objectifs-ep/dev-interfaces-app.html)" qui couvre l'aspect technique du code (révision fondamentale des langages web).
+Ce travail est soutenu par le cours EP "[Développement d'interfaces 5 (App Mobile)](../objectifs-cp/dev-interfaces-app.html)" qui couvre l'aspect technique du code (révision fondamentale des langages web).
 
 ## Projet type
 

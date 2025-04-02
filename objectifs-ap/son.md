@@ -61,9 +61,9 @@ Ce cours doit former les élèves à l'utilisation du matériel d'enregistrement
 
 ## Structure globale des cours
 
-Ce cours est donné en parallèle avec le cours [Montage (EP)](../objectifs-ep/video-1.html) et avec le cours [Projet Vidéo 1](../objectifs-ap/video-1.html).
+Ce cours est donné en parallèle avec le cours [Montage (EP)](../objectifs-cp/video-1.html) et avec le cours [Projet Vidéo 1](../objectifs-ap/video-1.html).
 
-Un deuxième cours consacré au son est donné au semestre 4 : [Audio-Vidéo 2](../objectifs-ep/video-2.html).
+Un deuxième cours consacré au son est donné au semestre 4 : [Audio-Vidéo 2](../objectifs-cp/video-2.html).
 
 Pour situer ce cours dans le contexte de la formation:
 

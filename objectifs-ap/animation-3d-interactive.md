@@ -23,5 +23,5 @@ Les élèves ont suivi auparavant:
 
 - Premier [Projet Animation 3D (CI3)](../objectifs-ap/animation-3d.html) en S3.
 - Ce cours est le deuxième cours dédié à la 3D.
-- Troisième et dernier [cours 3D](../objectifs-ep/3d-ecole.html) en S5.
+- Troisième et dernier [cours 3D](../objectifs-cp/3d-ecole.html) en S5.
 
