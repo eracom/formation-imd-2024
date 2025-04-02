@@ -16,13 +16,13 @@ Ce modèle se reflète dans la structure des [domaines de compétences](../pages
 
 ## Phase 1: Préparation de projets
 
-- Saisir et documenter les besoins du client (a1)
-- Établir le cahier des charges (a1.3)
-- Analyser les besoins du client, le public cible et le contexte (a2)
-- Examiner la faisabilité (a2.2)
-- Collecter et développer des idées (a3.1)
-- Établir la planification des travaux (a3.6)
-- Présenter des croquis d’idées et une ébauche de conception et valider le mandat avec le client (a4)
+- a1 : Saisir et documenter les besoins du client
+- a1.3 : Établir le cahier des charges
+- a2 : Analyser les besoins du client, le public cible et le contexte
+- a2.2 : Examiner la faisabilité
+- a3.1 : Collecter et développer des idées
+- a3.6 : Établir la planification des travaux
+- a4 : Présenter des croquis d’idées et une ébauche de conception et valider le mandat avec le client
 
 Cette **phase de préparation** correspond à ce que d'autres processus désignent par «Discovery Phase», «phase d’exploration» ou «recherche exploratoire». Dans le modèle d’IDEO, «cette première étape a pour objectif de trouver la problématique, de définir le problème».
 
@@ -36,27 +36,26 @@ Livrables à produire dans cette phase:
 
 ## Phase 2: Développement de concepts
 
-- b1 : réaliser des recherches détaillées (2.1)
-- b2 : élaborer des concepts de communication et de design (2.2)
-- b3: planifier et réaliser des tests d’utilisateurs (2.1.3)
-- b4 : présenter les concepts de communication et de design et les adapter en fonction des souhaits du client (2.2.6)
+- b1 : réaliser des recherches détaillées
+- b2 : élaborer des concepts de communication et de design
+- b3 : planifier et réaliser des tests d’utilisateurs
+- b4 : présenter les concepts de communication et de design et les adapter en fonction des souhaits du client
 
 Dans cette étape sont élaborés des livrables comme: _personas_, _site maps_, _wireframes_, maquettes visuelles, prototypes. Dans d’autres contextes on appellerait cette phase: «Research», «Plan»... Chez IDEO, l’objectif de cette deuxième phase («idéation») est de «trouver une réponse conceptuelle».
 
 ## Phase 3: Elaboration du design
 
-- c1 : planifier les projets (3.1)
-- c2 : élaborer ou spécifier des contenus (3.2)
-- c3 : élaborer le design (3.3)
-- c4 : présenter les contenus et le design et mettre en œuvre les avis reçus en retour (3.4)
-
+- c1 : planifier les projets
+- c2 : élaborer ou spécifier des contenus
+- c3 : élaborer le design
+- c4 : présenter les contenus et le design et mettre en œuvre les avis reçus en retour
 
 Cette partie est celle où le projet est réalisé: le design, le développement du produit, la mise en pratique du projet. Le processus IDEO nomme cette phase «implémentation».
 
 ## Phase 4: Réalisation et suivi de projets
 
-- d1 : élaborer ou spécifier les fonctions et les interactions pour la mise en œuvre technique (3.5)
-- d2 : tester et publier les moyens de communication et évaluer leur introduction (3.6.2)
+- d1 : élaborer ou spécifier les fonctions et les interactions pour la mise en œuvre technique
+- d2 : tester et publier les moyens de communication et évaluer leur introduction
 - d3 : clore les projets et évaluer les étapes du processus
 
 Cette phase inclut les étapes «Testing», «Delivery», et «Post-Launch» du processus IDEO.

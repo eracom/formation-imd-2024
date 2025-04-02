@@ -9,9 +9,12 @@ cursus:
   - Duals: S3
   - Plein-temps: S3
 competences:
-  - 2.1.1: 10
-  - 2.1.2: 5
-  - 2.1.3: 5
+  - b1.1: 10
+  - b1.2: 10
+  - b1.3: 5
+  - b3.1: 5
+  - b3.2: 5
+  - b3.3: 5
 profs:
   - Noémie Sandoz
   - Joëlle Aeschlimann
