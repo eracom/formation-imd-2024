@@ -95,7 +95,7 @@ Ce cours donne aux élèves des outils de recherche qu'ils appliqueront réguli�
 
 ## 📚 Références
 
-- Jon Kolko, [Contextual research syllabus](https://www.howiteachdesign.com/02_1_foundational_skills_research.php) - un syllabus complet autour de la recherche en design, mis en place au Austin Center for Design.
+- Jon Kolko, [Contextual research syllabus](https://www.wonderfulnarrative.com/books/how-i-teach/contextual-research) - un syllabus complet autour de la recherche en design, mis en place au Austin Center for Design.
 - Dan Brown, _Communicating Design_, New Riders, 2011. *Disponible en bibliothèque Eracom-EPISC (004.03.03 BRO)*. [Lien Teams](https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3A8a4ddd0bea3d4db4ae387c20afb9eef3%40thread.tacv2&ctx=channel&context=Communicating%2520Design%2520(Brown%25202011)&rootfolder=%252Fsites%252Fmsteams_58e45f%252FDocuments%2520partages%252FGeneral%252FBiblioth%25C3%25A8que%2520p%25C3%25A9dagogique%252FCommunicating%2520Design%2520(Brown%25202011)).
 - Erika Hall, _La phase de recherche en web design_. Traduit par Charles Robert. Paris: Eyrolles, 2015. *Disponible en bibliothèque Eracom-EPISC*
 - Gavin Ambrose, Neil Leonard, _[Recherche créative](https://pyramyd-editions.com/products/recherche-creative)_. Pyramid. "La recherche primaire, la recherche secondaire, la recherche tertiaire, les contextes sociaux et artistiques, le public cible, le brief, les sources, les études de marché, les enquêtes de terrain, les résultats de recherche, l'analyse, la synthèse, les tests, la présentation de la recherche..."
