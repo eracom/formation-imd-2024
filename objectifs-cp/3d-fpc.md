@@ -7,8 +7,8 @@ cursus:
   - FPC: S4
 competences:
   - c3.5: 20
-  - 3.4.1: 20
-  - 3.5.1: 20
+  - d1.1: 20
+  - d1.1: 20
 profs:
   #- Gregorio Soumas
 ---

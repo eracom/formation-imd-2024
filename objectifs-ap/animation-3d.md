@@ -9,7 +9,7 @@ cursus:
   - Plein-temps: S3
 competences:
   - c3.5 : 40
-  - 3.4.1 : 40
+  - d1.1 : 40
   - d3.3 : 5
 profs:
   #- Gregorio Soumas

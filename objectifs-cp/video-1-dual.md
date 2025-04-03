@@ -7,7 +7,7 @@ cursus:
   - Duals: S2
 periodes: 60
 competences:
-  - 3.2.1: 40
+  - c2.6: 40
 profs:
   - Nicolas Mesple
   - Hervé Pfister

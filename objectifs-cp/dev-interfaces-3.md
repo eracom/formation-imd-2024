@@ -10,7 +10,7 @@ cursus:
 competences:
   - c3.5: 20
   - d1.1: 20
-  - 3.5.1: 20
+  - d1.1: 20
 profs:
   - Vincent Belet **
   - Nathan Fourel *

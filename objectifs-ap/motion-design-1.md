@@ -9,8 +9,8 @@ cursus:
 periodes: 80
 competences:
   - c3.5 : 10
-  # - 3.4.1 : 10
-  # - 3.5.1 : 10
+  # - d1.1 : 10
+  # - d1.1 : 10
 profs: 
   - Sophie Borloz *
   - Jonas Lacôte *

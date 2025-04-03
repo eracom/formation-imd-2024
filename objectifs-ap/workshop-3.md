@@ -4,8 +4,8 @@ layout: cours
 type: AP
 code: ID-AP-WORK
 cursus:
-  - FPC: S3
-  - Plein-temps: S3
+  # - FPC: S3
+  # - Plein-temps: S3
 competences:
 profs:
  # - Caroline Buttet

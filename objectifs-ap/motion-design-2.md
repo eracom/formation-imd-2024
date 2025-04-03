@@ -11,7 +11,7 @@ competences:
   - a3.2 : 5
   - a3.3 : 5 
   - c3.5 : 10
-  - 3.4.1 : 10
+  - d1.1 : 10
   #- 4 : 5
 profs: 
   - Jonas Lacôte *

@@ -8,9 +8,9 @@ cursus:
   - FPC: S2
   - Plein-temps: S3
 competences:
-  # - 3.2.1: 40
+  # - c2.6: 40
   # - c3.5: 10
-  # - 3.4.1: 10
+  # - d1.1: 10
   # - 4: 10
 profs:
   - Fatmir Blakaj *

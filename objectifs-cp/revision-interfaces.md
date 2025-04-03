@@ -10,8 +10,8 @@ cursus:
   - Plein-temps: S8
 competences:
   - c3.5: 40
-  - 3.4.1: 20
-  - 3.5.1: 40
+  - d1.1: 20
+  - d1.1: 40
 profs:
 
 ---

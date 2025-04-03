@@ -8,8 +8,8 @@ periodes: 80
 cursus:
   - Plein-temps: S8
 competences:
-  - 3.1.1: 10
-  - 3.1.2: 10
+  - c1.1: 10
+  - c1.2: 10
   - d3.3: 10
 profs:
 

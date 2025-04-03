@@ -44,7 +44,7 @@ Ce cours couvre des objectifs évaluateurs que le [plan de formation](https://gi
 
 - a2.1 – Vérifier la faisabilité du projet, respectivement examiner et apprécier l’adéquation (entreprise C5)
 - a2.3 – Estimer approximativement les ressources nécessaires pour un préconcept (entreprise K3)
-- 3.1.2 – Etablir un plan de projet
+- c1.2 – Etablir un plan de projet
 - 3.7.1 – Faire le débriefing avec le supérieur (C3)
 - 3.7.2 – Clore le projet sur le plan administratif (C3)
 
