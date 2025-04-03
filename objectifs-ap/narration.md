@@ -12,8 +12,8 @@ competences:
    - a3.2: 10
    - a3.3: 10
    - a4.1: 10
-   - 2.2.4: 5
-   - 2.2.5: 5
+   - b2.7: 5
+   - b2.8: 5
 profs:
   - Daniel Torrisi *
   #- Julien Sulser

@@ -8,9 +8,9 @@ cursus:
   - Duals: S4
   - Plein-temps: S4
 competences:
-  - 2.2.5: 20
-  - 2.2.6: 20
-  - 2.2.7: 20
+  - b2.8: 20
+  - b2.9: 20
+  - b2.10: 20
 profs:
   #- Camille Vitré *
   - Joëlle Aeschlimann
@@ -25,7 +25,7 @@ Le focus de ce cours: atteindre un haut niveau dans l'utilisation des outils de 
 
 Bien que ce cours sera plutôt technique, les briefs peuvent aussi donner une (petite) place au développement du concept. 
 
-Sur la compétence métier "2.2.6 – Développer des variantes de maquettes ":
+Sur la compétence métier "b2.9 – Développer des variantes de maquettes ":
 
 - Les Interactive Media Designers CFC expliquent la fonction de variantes de maquettes.
 - Elles développent en fonction du projet des variantes de maquettes innovatrices et uniques, à l’aide de techniques d’expression créative.

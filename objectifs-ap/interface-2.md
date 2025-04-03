@@ -8,10 +8,10 @@ cursus:
   - FPC: S2
 periodes: 80
 competences:
-  - 1.2.2: 10
-  - 1.2.3: 5
-  - 2.2.6: 5
-  - 2.2.7: 5
+  - a1.2: 10
+  - a1.3: 5
+  - b2.9: 5
+  - b2.10: 5
   - 3.3.1: 10
   - 3.4.1: 10
   - 3.5.1: 10
@@ -39,7 +39,7 @@ Lien important avec le cours *Développement d'interfaces*.
 
 Lien possible avec le cours *[Communication Marketing](../objectifs-cp/communication-marketing-2.html)*. Des concepts marketing peuvent orienter le contenu des sites web développés (call-to-action, user-flow...).
 
-Dans ce cadre, le projet devra également traiter les aspects suivants: **établir une offre**, rédiger un cahier des charges pour un site web (objectifs évaluateurs 1.2.2, 1.2.3, 1.3.1, 1.3.2).
+Dans ce cadre, le projet devra également traiter les aspects suivants: **établir une offre**, rédiger un cahier des charges pour un site web (objectifs évaluateurs a1.2, a1.3, a2.1, a2.3).
 
 Pour chaque projet, l'élève devrait produire une offre pour le client, un devis, sous une forme choise par l'enseignant·e.
 

@@ -6,8 +6,8 @@ code: ID-CP-AUV2
 cursus:
   - Duals: S4
 competences:
-  - 1.1.10: 40
-  - 2.2.4: 20
+  - c2.4: 40
+  - b2.7: 20
 profs:
   - Nicolas Mesple *
   - Lucien Monot

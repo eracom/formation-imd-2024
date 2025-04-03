@@ -8,9 +8,9 @@ cursus:
   - Plein-temps: S3
 periodes: 40
 competences:
-  - 1.2.2 : 10
-  - 1.3.1 : 5
-  - 1.3.2 : 5
+  - a1.2 : 10
+  - a2.1 : 5
+  - a2.3 : 5
   - a3.1 : 5
   - a3.2 : 5
   - a3.3 : 5
@@ -42,8 +42,8 @@ Ce cours couvre des objectifs évaluateurs que le [plan de formation](https://gi
 
 ### Phase de pré-conception
 
-- 1.3.1 – Vérifier la faisabilité du projet, respectivement examiner et apprécier l’adéquation (entreprise C5)
-- 1.3.2 – Estimer approximativement les ressources nécessaires pour un préconcept (entreprise K3)
+- a2.1 – Vérifier la faisabilité du projet, respectivement examiner et apprécier l’adéquation (entreprise C5)
+- a2.3 – Estimer approximativement les ressources nécessaires pour un préconcept (entreprise K3)
 - 3.1.2 – Etablir un plan de projet
 - 3.7.1 – Faire le débriefing avec le supérieur (C3)
 - 3.7.2 – Clore le projet sur le plan administratif (C3)

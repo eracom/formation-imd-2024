@@ -11,9 +11,9 @@ cursus:
 competences:
   - 1.1.11: 10
   - 1.1.12: 5
-  - 1.2.2: 5
-  - 1.2.3: 5
-  - 1.4.4: 15
+  - a1.2: 5
+  - a1.3: 5
+  - a3.4: 15
   - 1.4.5: 5
   - 1.4.6: 5
 profs:
@@ -43,7 +43,7 @@ Il est important de travailler avec les élèves sur leur **communication** dans
 
 La [technique de présentation](technique-presentation.html) fait l'objet d'un cours en soi.
 
-### 1.2.2 - Comprendre l’entretien avec le client et de con­seil
+### a1.2 - Comprendre l’entretien avec le client et de con­seil
 
 Les Interactive Media Designers CFC décrivent les phases suivantes de l’entretien avec le client/entretien de conseil et les exigences spécifiques:
 
@@ -55,7 +55,7 @@ Les Interactive Media Designers CFC décrivent les phases suivantes de l’entr
 - conclure l’entretien / le conseil
 - prendre congé du client [C2]
 
-### 1.2.3 - Décrire le cahier des charges
+### a1.3 - Décrire le cahier des charges
 
 Les Interactive Media Designers CFC décrivent la structure, les contenus et les objectifs d’un **cahier des charges**. Pour des projets concrets ils établissent et gèrent leur cahier des charges de façon claire et complète.
 

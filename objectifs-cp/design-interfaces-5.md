@@ -8,9 +8,9 @@ cursus:
   - Duals: S6
   - Plein-temps: S5
 competences:
-  - 2.2.5: 10
-  - 2.2.6: 10
-  - 2.2.7: 10
+  - b2.8: 10
+  - b2.9: 10
+  - b2.10: 10
   - 2.3.1: 5
   - 2.3.2: 5
 profs:

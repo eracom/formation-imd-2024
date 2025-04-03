@@ -7,21 +7,21 @@ cursus:
   #- Plein-temps: S2
 periodes: 80
 competences:
-  - 1.2.2 : 5
-  - 1.2.3 : 5
-  - 1.3.1 : 5
-  - 1.3.2 : 5
+  - a1.2 : 5
+  - a1.3 : 5
+  - a2.1 : 5
+  - a2.3 : 5
   - a3.1 : 5
   - a3.1 : 5
   - a3.3 : 5
-  - 1.4.4 : 5
+  - a3.4 : 5
   - 1.4.6 : 5
   - a4.1 : 5
   - a4.2 : 5
-  - 2.2.4 : 5
-  - 2.2.5 : 5
-  - 2.2.6 : 5
-  - 2.2.7 : 5
+  - b2.7 : 5
+  - b2.8 : 5
+  - b2.9 : 5
+  - b2.10 : 5
   - 3.1.1 : 5
   - 3.1.2 : 5
   - 3.3.1 : 5
@@ -35,18 +35,18 @@ profs:
 
 ## Descriptif
 
-Bases du graphisme, recherche, production d'idées, design (un peu plus complexe que Projet Création Graphique). C'est "Projet Création Graphique 2".
+Ce cours permet de mettre en pratique les bases du graphisme, recherche, production d'idées, design (avec des mandats un peu plus complexes que Projet Création Graphique). C'est en quelque sorte la continuation du cours "Projet Création Graphique".
+
+Points important qui doivent être approfondis:
 
 - collecter des idées
-- en lien avec sémiologie
-- hiérarchisation de contenus, pas seulement graphique...
+- mettre en application les notions acquises dans le cours de sémiologie
+- hiérarchisation de contenus, pas seulement graphique
 - traduire visuellement un contenu textuel (tenir compte du contenu)
 
+Ce cours se met en œuvre autour de projets et mandats. Les élèves réalisent des mandats de communication, de type TPI (travail de fin de CFC), qui touchent à tous les médias que les IMD savent réaliser. Un projet peut donc combiner la prise de photos, la captation de capsules vidéo, la production motion design ou 3D, la conception de sites web.
 
-
-Un cours en mode "Projet". Réalisation de mandats de communication, de type TPI, touchant à tous les médias que les IMD savent réaliser. Il peut donc combiner la prise de photos, la captation de capsules vidéo, la production motion design ou 3D, le web. 
-
-Ce cours est donné uniquement aux classes en formation plein-temps sur 4 ans.
+Ce cours est donné uniquement aux classes en formation plein-temps.
 
 Les élèves ont déjà des compétences approfondies dans le domaine de la recherche et d’analyse, création de cahiers de charge, recherche d’idées et concept communication. Le cours se base sur ces compétences pour les mettre en application. Il s’agit essentiellement de renforcer les compétences en recherche d’idées et conception et de planification et gestion de projet.
 
@@ -64,17 +64,16 @@ Ce cours se déroule sur quatre périodes hebdomadaires et son mode de fonctionn
 
 Ce cours doit fonctionner en coordination avec les cours suivants, qui se déroulent au même semestre :
 
-1.	Les deux cours EP Design d’interfaces 4 et 5 
-2.	Le cours AP Projet Motion design 2
-3.	Le cours AP Projet Vidéo 4
+1.	Les deux cours EP Design d’interfaces 4 et 5 (peuvent amener une aide au projet Communication)
+2.	Le cours AP Projet Motion design 2 (possibilité de projet commun)
+3.	Le cours AP Projet Vidéo 4 (possibilité de projet commun)
 
 ## Exemples de mandats
 
-Voir les anciens mandats école pour le TPI.
+Voir les anciens mandats école pour le TPI (dans Teams).
 
 ## Ressources pour ce cours
 
 - Grille d’évaluation TPI position 1
 - Disposition d’exécution pour la procédure de qualification ID
-
 

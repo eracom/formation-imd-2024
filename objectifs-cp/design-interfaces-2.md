@@ -9,8 +9,8 @@ cursus:
   - Plein-temps: S3
 competences:
   - 1.1.8: 20
-  - 2.2.5: 20
-  - 2.2.6: 20
+  - b2.8: 20
+  - b2.9: 20
 profs:
   - Joëlle Aeschlimann *
   - Pierre Georges *
