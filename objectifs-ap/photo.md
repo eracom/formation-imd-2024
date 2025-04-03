@@ -11,14 +11,14 @@ competences:
   - a3.1 : 10
   - a3.2 : 10
   - a3.3 : 10
-  - 2.1.1 : 10
-  - 2.1.2 : 10
-  - 2.1.3 : 10
+  - b1.1 : 10
+  - b1.2 : 10
+  - b1.3 : 10
   - d3.3 : 10
-  - 4 : 10
+  #- 4 : 10
 profs:
-  - Cécile Monnier *
   - Cyril Porchet
+  - Jennifer Santschy
 notes:
  # Comprend les heures du CIE2
 ---

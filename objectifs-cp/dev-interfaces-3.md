@@ -12,7 +12,9 @@ competences:
   - d1.1: 20
   - 3.5.1: 20
 profs:
-
+  - Vincent Belet **
+  - Nathan Fourel *
+  - Charles Chalas
 
 ---
 

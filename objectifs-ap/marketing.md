@@ -14,9 +14,9 @@ competences:
   - a3.1 : 5
   - a3.2 : 5
   - a3.3 : 5
-  - 2.1.1 : 5
-  - 2.1.2 : 5
-  - 2.1.3 : 5
+  - b1.1 : 5
+  - b1.2 : 5
+  - b1.3 : 5
 profs:
   - Fabien Baudin *
   - Jonathan Droz

@@ -13,9 +13,8 @@ competences:
   - c3.1 : 20
   - b2.7 : 20
 profs:
-  - Cécile Monnier
-  - Jennifer Santschy
   - Cyril Porchet
+  - Jennifer Santschy
 ---
 
 ## Descriptif

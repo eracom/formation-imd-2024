@@ -15,7 +15,7 @@ competences:
   - 3.3.1: 10
   - 3.4.1: 10
   - 3.5.1: 10
-  - 4 : 5
+  #- 4 : 5
 profs:
   - Charles Chalas *
   - Vincent Belet *

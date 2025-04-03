@@ -12,7 +12,7 @@ competences:
   - a3.3 : 5 
   - 3.3.1 : 10
   - 3.4.1 : 10
-  - 4 : 5
+  #- 4 : 5
 profs: 
   - Jonas Lacôte *
   - Sophie Borloz

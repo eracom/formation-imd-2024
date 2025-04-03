@@ -15,7 +15,7 @@ competences:
   - 3.2.1: 10
   - 3.4.1: 10
   - d3.3: 5
-  - 4 : 5zh
+  #- 4 : 5zh
 profs:
   - Nicolas Mesple *
   - Hervé Pfister

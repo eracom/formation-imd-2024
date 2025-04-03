@@ -9,8 +9,9 @@ periodes: 60
 competences:
   - 3.2.1: 40
 profs:
-  - Hervé Pfister *
-  - Lucien Monot *
+  - Nicolas Mesple
+  - Hervé Pfister
+  - Lucien Monot
 # - Nicolas Mesple
 ---
 

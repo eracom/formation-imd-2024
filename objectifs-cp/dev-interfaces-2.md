@@ -11,7 +11,10 @@ competences:
   - c3.5: 20
   - d1.1: 20
 profs:
-
+  - Manuel Schmalstieg **
+  - Vincent Belet *
+  #- Camille Vitré
+  - Adrien Cater
 
 ---
 

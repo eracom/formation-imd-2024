@@ -16,10 +16,10 @@ competences:
   #- b4.1: 5
   #- b4.2: 5
 profs:
+  - Nicolas Denis *
   - Isabelle Stucki *
   - Robert Ireland *
   - Colas Weber
-  - Valerie Roten
   #- Christian Perret
 ---
 
