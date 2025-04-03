@@ -9,7 +9,7 @@ cursus:
   - Plein-temps: S3
 competences:
   # - 3.2.1: 40
-  # - 3.3.1: 10
+  # - c3.5: 10
   # - 3.4.1: 10
   # - 4: 10
 profs:

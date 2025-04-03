@@ -8,7 +8,7 @@ cursus:
   - Plein-temps: S3
 periodes: 80
 competences:
-  - 3.3.1 : 10
+  - c3.5 : 10
   # - 3.4.1 : 10
   # - 3.5.1 : 10
 profs: 

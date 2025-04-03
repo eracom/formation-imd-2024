@@ -7,7 +7,7 @@ periodes: 60
 cursus:
   - Duals: S5
 competences:
-  - 3.3.1: 20
+  - c3.5: 20
   - 3.4.1: 20
   - 3.5.1: 20
 profs:

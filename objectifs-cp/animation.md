@@ -13,7 +13,8 @@ competences:
   - c2.6: 20
   - b2.3: 20
 profs:
-
+  - Sophie Borloz *
+  - Jonas Lacôte *
 
 ---
 

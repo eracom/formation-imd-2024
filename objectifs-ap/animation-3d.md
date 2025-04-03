@@ -8,8 +8,9 @@ cursus:
   - FPC: S3
   - Plein-temps: S3
 competences:
-  - 3.3.1 : 40
+  - c3.5 : 40
   - 3.4.1 : 40
+  - d3.3 : 5
 profs:
   #- Gregorio Soumas
 notes:

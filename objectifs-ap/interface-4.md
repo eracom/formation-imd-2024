@@ -15,6 +15,7 @@ competences:
   - 3.5.1: 10
   - 3.6.1 : 5
   - 3.6.2 : 5
+  - d3.3 : 5
   #- 4: 5
 remarques:
  # Comprend les objectifs du cours interentreprise CI5 **Frontend II**: "établir une application mobile".
