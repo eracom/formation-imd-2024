@@ -4,7 +4,7 @@ layout: cours
 type: AP
 code: ID-AP-WORK
 cursus:
-  - Plein-temps: S5
+  #- Plein-temps: S5
 competences:
 profs:
   #- Caroline Buttet

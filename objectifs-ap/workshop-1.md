@@ -4,9 +4,9 @@ layout: cours
 type: AP
 code: ID-AP-WORK
 cursus:
-  - FPC: S1
-  - Plein-temps: S1
-  - Duals: S4
+  # - FPC: S1
+  # - Plein-temps: S1
+  # - Duals: S4
 competences:
 profs:
  # - Loris Grillet

@@ -4,9 +4,9 @@ layout: cours
 type: AP
 code: ID-AP-WORK
 cursus:
-  - FPC: S2
-  - Plein-temps: S2
-  - Duals: S6
+  # - FPC: S2
+  # - Plein-temps: S2
+  # - Duals: S6
 competences:
 profs:
  # - Ivan Gulizia
