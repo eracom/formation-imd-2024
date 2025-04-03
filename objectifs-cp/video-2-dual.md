@@ -10,7 +10,7 @@ competences:
   - b2.7: 20
 profs:
   - Nicolas Mesple *
-  - Lucien Monot
+ # - Lucien Monot
 #  - Hervé Pfister
 ---
 

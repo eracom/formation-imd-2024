@@ -20,7 +20,7 @@ profs:
   - Nicolas Mesple *
   - Hervé Pfister
   - Daniel Torrisi *
-  - Lucien Monot
+  #- Lucien Monot
   #- David Maye
   #- Janine Waeber-Graf
 ---

@@ -11,7 +11,7 @@ competences:
   - 3.2.1: 40
 profs:
   - Janine Waeber-Graf *
-  - Lucien Monot *
+  # - Lucien Monot *
   #- Hervé Pfister
 ---
 

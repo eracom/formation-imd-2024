@@ -11,7 +11,7 @@ competences:
 profs:
   - Nicolas Mesple
   - Hervé Pfister
-  - Lucien Monot
+ # - Lucien Monot
 # - Nicolas Mesple
 ---
 

@@ -11,9 +11,9 @@ competences:
   - b2.7: 20
 profs:
   - Nicolas Mesple
-  - Philippe Cordey
+  #- Philippe Cordey
   - Hervé Pfister
-  - Lucien Monot
+  #- Lucien Monot
 ---
 
 ## Description
