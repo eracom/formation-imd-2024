@@ -16,7 +16,7 @@ competences:
 profs:
   - Pierre Georges *
   - Joël Boucheteil *
-  - Joëlle Aeschlimann
+  # - Joëlle Aeschlimann
 #- Adrien Cater (pas ID421)
 ---
 

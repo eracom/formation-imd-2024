@@ -14,7 +14,7 @@ competences:
   - b2.6: 5
   - c3.2: 20
 profs:
-  - Joëlle Aeschlimann *
+  # - Joëlle Aeschlimann *
   # - Joël Boucheteil
   # - Tancrède Ottiger
   - Pierre Georges *

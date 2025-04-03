@@ -17,7 +17,7 @@ competences:
   - b3.3: 5
 profs:
   - Noémie Sandoz
-  - Joëlle Aeschlimann
+  # - Joëlle Aeschlimann
   #- Camille Vitré
 ---
 

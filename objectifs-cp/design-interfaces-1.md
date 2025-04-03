@@ -15,7 +15,7 @@ competences:
   - b4.1: 5
   - b4.2: 5
 profs:
-  - Joëlle Aeschlimann *
+  # - Joëlle Aeschlimann *
   # - Joël Boucheteil
   # - Tancrède Ottiger
   - Pierre Georges *

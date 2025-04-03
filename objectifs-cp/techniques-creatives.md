@@ -13,11 +13,12 @@ competences:
   - a3.2: 10
   - c2.6: 20
 profs:
-  - Manuel Schmalstieg *
-  - Livia Gnos *
-  ##- Gregorio Soumas
-  - Stefano Boroni
-  - Fabien Baudin
+ - Ivan Gulizia
+ - Adrien Cater
+ - Livia Gnos
+ - Manuel Schmalstieg
+ - Stefano Boroni
+
 ---
 
 ## Techniques créatives - Création et visualisation d'idées

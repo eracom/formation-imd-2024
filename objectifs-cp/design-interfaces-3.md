@@ -13,7 +13,7 @@ competences:
   - b2.10: 20
 profs:
   #- Camille Vitré *
-  - Joëlle Aeschlimann
+  # - Joëlle Aeschlimann
   - Pierre Georges
 ---
 

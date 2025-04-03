@@ -12,7 +12,7 @@ competences:
   - b2.8: 20
   - b2.9: 20
 profs:
-  - Joëlle Aeschlimann *
+  # - Joëlle Aeschlimann *
   - Pierre Georges *
   - Joël Boucheteil *
   #- Camille Vitré

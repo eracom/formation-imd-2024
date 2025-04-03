@@ -16,7 +16,8 @@ competences:
   - b4.2: 5
   - c2.7: 5
 profs:
-  - Nayansaku Mufwankolo
+  - Michael Thompson
+  - Viviane Morey
 ---
 
 ## Descriptif:

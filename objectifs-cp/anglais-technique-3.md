@@ -4,9 +4,9 @@ layout: cours
 type: 30-EP
 code: ID-CP-ANG3
 cursus:
-  - FPC: S3
-  - Duals: S3
-  - Plein-temps: S3
+  #- FPC: S3
+  #- Duals: S3
+  #- Plein-temps: S3
 periodes: 40
 competences:
   - a1.2: 5
@@ -16,7 +16,7 @@ competences:
   - b4.2: 5
   - c2.7: 5
 profs:
-  - Nayansaku Mufwankolo
+  - Michael Thompson
   - Viviane Morey
 ---
 
