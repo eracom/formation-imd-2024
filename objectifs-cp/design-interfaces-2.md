@@ -3,6 +3,7 @@ title: Design d'interfaces 2 - Design écran
 layout: cours
 type: 30-EP
 code: ID-CP-INT2
+periodes: 40
 cursus:
   - FPC: S2
   - Duals: S3

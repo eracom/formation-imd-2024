@@ -3,7 +3,7 @@ title: Communication marketing 1
 layout: cours
 type: 30-EP
 code: ID-CP-MRKT1
-periodes: 40
+periodes: 60
 cursus:
   - Duals: S3
   - Plein-temps: S4
