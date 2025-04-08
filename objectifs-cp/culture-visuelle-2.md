@@ -55,7 +55,7 @@ Le cours est dispensé sous forme de théorie accompagnée de petits exercices (
 
 ## 📚 Bibliographie
 
-- Le blog Sémiosine, [www.semiozine.com](http://www.semiozine.com/)
+- Le blog Sémiozine, [www.semiozine.com](http://www.semiozine.com/)
 - Barel, Sophie (2015). _[De l’intérêt de la sémiologie dans le design graphique](https://www.aetherium.fr/interet-semiologie-design-graphique/)_
 - Pater, Ruben (2016), _The Politics of Design_. Chapitre 4 (Symbols and Icons).
 
