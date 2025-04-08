@@ -5,8 +5,7 @@ type: 30-EP
 code: ID-CP-PHOT
 periodes: 80
 cursus:
-  - FPC: S3
-  - Plein-temps: S3
+  - Plein-temps: S2
 # periodes: 40
 competences:
   - c2.3 : 40
