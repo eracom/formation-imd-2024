@@ -4,8 +4,7 @@ layout: cours
 type: AP
 code: ID-AP-MRKT
 cursus:
-  - FPC: S2
-  - Plein-temps: S3
+  - Plein-temps: S5
 periodes: 40
 competences:
   - a1.2 : 10

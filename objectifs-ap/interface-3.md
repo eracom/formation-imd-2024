@@ -4,7 +4,7 @@ layout: cours
 type: AP
 code: ID-AP-INT3
 cursus:
-  - Plein-temps: S5
+  - Plein-temps: S4
 periodes: 80
 profs:
   - Adrien Cater * # (pas ID421)

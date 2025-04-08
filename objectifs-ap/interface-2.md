@@ -4,8 +4,7 @@ layout: cours
 type: AP
 code: ID-AP-INT2
 cursus:
-  - Plein-temps: S4
-  - FPC: S2
+  - Plein-temps: S3
 periodes: 80
 competences:
   - a1.2: 10
