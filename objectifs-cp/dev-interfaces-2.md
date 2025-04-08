@@ -3,6 +3,7 @@ title: Développement d'interfaces 2 - CSS
 layout: cours
 type: 30-EP
 code: ID-CP-DEV2
+periodes: 60
 cursus:
   - FPC: S3
   - Duals: S4
