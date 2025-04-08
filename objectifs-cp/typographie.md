@@ -3,13 +3,13 @@ title: Typographie
 layout: cours
 type: 30-EP
 code: ID-CP-TYPO
-periodes: 60
+periodes: 40
 cursus:
   - FPC: S1
   - Duals: S1
   - Plein-temps: S1
 competences:
-  - c3.3: 40
+  - c3.3: 20
   - c2.6: 10
   - c2.7: 5
   - b2.1: 5
