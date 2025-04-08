@@ -5,9 +5,8 @@ type: 30-EP
 code: ID-CP-MRKT2
 periodes: 60
 cursus:
-  - FPC: S3
   - Duals: S4
-  - Plein-temps: S4
+  - Plein-temps: S5
 competences:
   - 1.1.11: 10
   - 1.1.12: 5

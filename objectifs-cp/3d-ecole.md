@@ -5,7 +5,7 @@ type: 30-EP
 code: ID-CP-3D
 periodes: 60
 cursus:
-  - Plein-temps: S5
+  - Plein-temps: S3
 competences:
   - c3.5: 20
   - d1.1: 20
