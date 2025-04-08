@@ -3,9 +3,8 @@ title: Projet hypertexte
 layout: cours
 type: AP
 code: ID-AP-HTXT
-periodes: 60
+periodes: 80
 cursus:
-  - FPC: S1
   - Plein-temps: S1
 competences:
 profs:
