@@ -3,10 +3,9 @@ title: Photographie
 layout: cours
 type: 30-EP
 code: ID-CP-PHOT
-periodes: 80
+periodes: 60
 cursus:
   - Plein-temps: S2
-# periodes: 40
 competences:
   - c2.3 : 40
   - c3.1 : 20
