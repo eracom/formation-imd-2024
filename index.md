@@ -7,28 +7,33 @@ title: Accueil
 
 ## Par classe
 
+Classes de 2025:
+
+- [ID450 et ID451](/formation-imd-2024/cursus-plein-temps/) (Plein-temps)
+- [ID452](/formation-imd-2024/cursus-dual/) (Dual)
+
 Classes de 2024:
 
-- [ID341](/formation-imd/cursus-fpc/) (1<sup>re</sup> année FPC)
-- [ID441](/formation-imd-2024/cursus-plein-temps/) (1<sup>re</sup> Plein-temps)
-- [ID442](/formation-imd-2024/cursus-dual/) (1<sup>re</sup> année Dual)
+- [ID341](/formation-imd/cursus-fpc/) (FPC)
+- [ID441](/formation-imd-2024/cursus-plein-temps/) (Plein-temps)
+- [ID442](/formation-imd-2024/cursus-dual/) (Dual)
 
 Classes de 2023:
 
-- [ID331](/formation-imd/cursus-fpc/) (2<sup>e</sup> année FPC)
-- [ID431](/formation-imd/cursus-plein-temps/) (2<sup>e</sup> Plein-temps)
-- [ID432](/formation-imd/cursus-dual/) (2<sup>e</sup> année Dual)
+- [ID331](/formation-imd/cursus-fpc/) (FPC)
+- [ID431](/formation-imd/cursus-plein-temps/) (Plein-temps)
+- [ID432](/formation-imd/cursus-dual/) (Dual)
 
 Classes de 2022:
 
-- [ID321](/formation-imd/cursus-fpc/) (3<sup>e</sup> année FPC)
-- [ID421](/formation-imd/cursus-plein-temps/) (3<sup>e</sup> année Plein-temps)
-- [ID422](/formation-imd/cursus-dual/) (3<sup>e</sup> année Dual)
+- [ID321](/formation-imd/cursus-fpc/) (FPC)
+- [ID421](/formation-imd/cursus-plein-temps/) (Plein-temps)
+- [ID422](/formation-imd/cursus-dual/) (Dual)
 
 Classes de 2021:
 
-- [ID411](/formation-imd/cursus-plein-temps/) (4<sup>e</sup> année Plein-temps)
-- [ID412](/formation-imd/cursus-dual/) (4<sup>e</sup> année Dual)
+- [ID411](/formation-imd/cursus-plein-temps/) (Plein-temps)
+- [ID412](/formation-imd/cursus-dual/) (Dual)
 
 ## Documents essentiels du plan de formation IMD
 
