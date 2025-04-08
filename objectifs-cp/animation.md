@@ -3,7 +3,7 @@ title: Animation
 layout: cours
 type: 30-EP
 code: ID-CP-ANIM
-periodes: 80
+periodes: 60
 cursus:
   - Duals: S3
   - Plein-temps: S3
