@@ -6,8 +6,7 @@ type: AP
 code: ID-AP-VID4
 periodes: 80
 cursus:
-  - FPC: S6
-  - Plein-temps: S5
+  - Plein-temps: S4
 profs:
 
 competences:

@@ -6,8 +6,7 @@ type: AP
 code: ID-AP-VID3
 periodes: 80
 cursus:
-  - FPC: S3
-  - Plein-temps: S4
+  - Plein-temps: S3
 competences:
   - c2.6: 10
   - d1.1: 10
