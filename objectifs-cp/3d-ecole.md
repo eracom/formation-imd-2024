@@ -3,7 +3,7 @@ title: 3D (Plein-temps)
 layout: cours
 type: 30-EP
 code: ID-CP-3D
-periodes: 60
+periodes: 80
 cursus:
   - Plein-temps: S3
 competences:

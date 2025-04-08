@@ -5,7 +5,7 @@ type: 30-EP
 code: ID-CP-MRKT1
 periodes: 40
 cursus:
-  - Duals: S3
+  - Duals: S4
   - Plein-temps: S4
 competences:
   - c3.4: 10
