@@ -9,6 +9,6 @@ ordre: type
 
 # Cursus Dual - 4 ans
 
-La structure du cursus Dual. Concerne la classe ID442. Les classes ID432, ID422 et ID412 suivent [le plan de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/).
+La structure du cursus Dual. Concerne les classes ID452/442. Les classes ID432/422 suivent [le plan de formation 2020](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/).
 
 
