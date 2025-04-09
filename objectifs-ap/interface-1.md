@@ -5,7 +5,6 @@ type: AP
 code: ID-AP-INT1
 periodes: 80
 cursus:
-  - FPC: S1
   - Plein-temps: S1
 competences:
   - a3.1 : 10
@@ -15,7 +14,8 @@ competences:
   - d3.3 : 10
   #- 4 : 10
 profs:
-
+ - Mylène Dreyer *
+ - Adrien Cater
 notes: 
  # Comprend les heures du CIE1
 ---

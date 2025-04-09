@@ -5,7 +5,6 @@ type: AP
 code: ID-AP-INFO
 periodes: 80
 cursus:
-  - FPC: S1
   - Plein-temps: S1
 competences:
   - a3.1 : 10
@@ -17,6 +16,7 @@ competences:
   - d3.3 : 10
 profs:
   - Ivan Gulizia
+  - Adrien Cater
 notes: 
 ---
 

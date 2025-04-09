@@ -3,7 +3,7 @@ title: Projet narration
 layout: cours
 type: AP
 code: ID-AP-NAR
-periodes: 60
+periodes: 80
 cursus:
   - FPC: S3
   - Plein-temps: S4

@@ -8,7 +8,8 @@ cursus:
   - Plein-temps: S1
 competences:
 profs:
-
+  - Adrien Cater *
+  - Tancrède Ottiger
 competences:
   - a3.1 : 10
   - a3.2 : 10
