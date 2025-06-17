@@ -26,14 +26,8 @@ Classes de 2023:
 
 Classes de 2022:
 
-- [ID321](/formation-imd/cursus-fpc/) (FPC)
 - [ID421](/formation-imd/cursus-plein-temps/) (Plein-temps)
 - [ID422](/formation-imd/cursus-dual/) (Dual)
-
-Classes de 2021:
-
-- [ID411](/formation-imd/cursus-plein-temps/) (Plein-temps)
-- [ID412](/formation-imd/cursus-dual/) (Dual)
 
 ## Documents essentiels du plan de formation IMD
 
