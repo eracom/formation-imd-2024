@@ -75,6 +75,7 @@ Proposer quelques exercices en binôme afin d'exploiter les possibilités de Git
 
 Exemples de structure de cours: 
 
+- [Fiches de suivi](https://eracom.ch/extranet/id/cours-cp/cp-dev2/)
 - [https://eracom-id412.github.io/eedev2/](https://eracom-id412.github.io/eedev2/) classe ID412, printemps 2023, cours de M. Schmalstieg
 - [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/) classe ID311, automne 2022, cours de M. Schmalstieg
 
