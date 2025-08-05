@@ -50,7 +50,7 @@ Travail du son:
 
 ## Relation avec ancien plan de formation:
 
-Correspond aux objectifs du [cours EP Son 1](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-cp/son-1.html).
+Correspond aux objectifs du [cours EP Son 1](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-ep/son-1.html).
 
 ## Structure globale des cours
 

@@ -22,7 +22,7 @@ profs:
 - Production de contenus vidéo.
 - Introduction au montage Adobe Premiere.
 
-Le focus de ce cours sera le montage. Il intègre les objectifs du cours [Adobe Premiere](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-cp/adobe-premiere.html) du précédent plan de formation.
+Le focus de ce cours sera le montage. Il intègre les objectifs du cours [Adobe Premiere](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-ep/adobe-premiere.html) du précédent plan de formation.
 
 ### Compétences visées : AV 3
 

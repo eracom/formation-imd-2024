@@ -38,4 +38,4 @@ Pour les élèves en école (plein-temps et CFC), ce cours devra aussi aider l'�
 
 ### Références du plan Ecole Eracom 2014
 
-Voir [la fiche d'objectifs du cours](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-cp/technique-presentation-gestion.html) selon le plan de formation école 2014-2020.
+Voir [la fiche d'objectifs du cours](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-ep/technique-presentation-gestion.html) selon le plan de formation école 2014-2020.

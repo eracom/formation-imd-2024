@@ -25,7 +25,7 @@ profs:
 
 Ce cours complète le cours [EP Marketing 1 (création de concept)](../objectifs-cp/communication-marketing-1.html) et [Marketing 2 (account management)](../objectifs-cp/communication-marketing-2.html).
 
-Voir aussi les objectifs de l'ancien plan-cadre, qui comporte un unique [cours EP Marketing](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-cp/marketing.html).
+Voir aussi les objectifs de l'ancien plan-cadre, qui comporte un unique [cours EP Marketing](https://code.eracom-pedagogique.ch/formation-imd-2014/objectifs-ep/marketing.html).
 
 ## Compétences et projets-type
 
