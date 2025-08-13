@@ -3,7 +3,7 @@ title: Projet photographie
 layout: cours
 type: AP
 code: ID-AP-PHOT
-periodes: 160
+periodes: 80
 cursus:
   - FPC: S1
   - Plein-temps: S2
@@ -71,7 +71,7 @@ Parallèlement, ce cours doit pouvoir initier l'élève à un regard critique à
 
 Ce cours pour les classes plein-temps comprend les périodes du Cours Inter-entreprises CI2, "[Photo et images numériques](../objectifs-cie/cie-2-photo.html)" (donné aux classes duales).
 
-Le mode de fonctionnement de ce cours devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, avec un horaire bien établi qui comporte:
+Le mode de fonctionnement de ce cours devrait ressembler au rythme de travail dans une agence. Un fonctionnement régulier, qui comporte:
 
 - des moments d’analyse de brief.
 - des moments de travail individuel.
