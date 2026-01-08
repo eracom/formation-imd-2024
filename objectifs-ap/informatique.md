@@ -35,7 +35,7 @@ Il est essentiel de "mettre à niveau" tous les élèves de 1ère année dans l'
 
 Les interactive media designer CFC assurent la sécurité et la disponibilité de leurs données (sauvegarde) et opèrent avec la sécurité nécessaire dans des serveurs et des cloudtools sur Internet. 
 
-### Compétence c1.6 : Mettre en œuvre des mesures d'écologie de bureau
+### Compétence c1.6 : Mettre en œuvre des mesures d'écologie de bureau
 
 Les interactive media designer CFC utilisent les outils de travail de manière économe en énergie et éliminent les déchets de manière respectueuse de l'environnement.
 
