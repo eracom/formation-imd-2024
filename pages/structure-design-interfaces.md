@@ -24,10 +24,12 @@ Un cours [Recherche UX](../objectifs-cp/recherche-ux.html) est donné à toutes 
 
 Pour les élèves en école à plein-temps, des **cours AP** (applications professionnelles) viennent s'ajouter. Ils visent la réalisation de projets pratiques pour assimiler les notions et techniques.
 
-1. **[Projet interface (CI1)](../objectifs-ap/design-interface.html)**.
-2. **[Projet interface (site web)](../objectifs-ap/interface-site-web.html)**. Projet " Site vitrine": présentation d’une entreprise.
-3. **[Projet interface (site web responsive)](../objectifs-ap/interface-site-responsive.html)**. Projet "site immersif": un site au visuel impressionnant, novateur.
-4. **[Projet interface (App Mobile CI5)](../objectifs-ap/interface-app-mobile.html)**: développer un projet global, similaire au TPI: recherche utilisateur, parcours d’utilisateurs, schéma conceptuel, wireframe, prototype fonctionnel.
+1. **[Projet interface (CI1)](../objectifs-ap/interface-1.html)**.
+2. **[Projet interface (site web)](../objectifs-ap/interface-2.html)**. Projet " Site vitrine": présentation d’une entreprise.
+3. **[Projet interface (site web responsive)](../objectifs-ap/interface-3.html)**. Projet "site immersif": un site au visuel impressionnant, novateur.
+4. **[Projet interface (App Mobile CI5)](../objectifs-ap/interface-4.html)**: développer un projet global, similaire au TPI: recherche utilisateur, parcours d’utilisateurs, schéma conceptuel, wireframe, prototype fonctionnel.
+
+/objectifs-ap/interface-2.html
 
 # 📚 Bibliographie
 

@@ -60,8 +60,6 @@ Références pour ce cours, en bibliothèque Eracom-EPSIC:
 - Adam Wathan & Steve Schoger, _Refactoring UI_, . [Lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/Ejrsg7j13KBFlM9jVYY42bEBJ49E-gXMxaRPZF205Wvzvg?e=3UodTP).
 - Ellen Lupton, *Typo et design pour écran*, Pyramyd, 2015. Disponible en bibliothèque Eracom-EPISC (655.26 LUP). [Lien OneDrive](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/EuZCdiK9s3NBgigQHezCWswBdABl-4gms1FB_bJ6xyLaxQ?e=GTT43A)
 
-Pour info: Les élèves des classes ID412, ID411, ID311 ont acheté le livre de Lupton (*Typo et design pour écran*). Depuis la rentrée 2022 ce n'est plus un achat imposé.
-
 **Autres références:**
 
 - _[Les fondamentaux du design interactif](https://pyramyd-editions.com/products/les-fondamentaux-du-design-interactif)_, Gavin Ambrose & Michael Salmond, Pyramyd, 2013.
